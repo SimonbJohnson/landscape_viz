@@ -1,0 +1,746 @@
+[
+ {
+   "Country": "Albania",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Algeria",
+   "Sub Region": "Northern Africa",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Argentina",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Armenia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Australia",
+   "Sub Region": "Pacific",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Austria",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Bangladesh",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Belarus",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Belgium",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Botswana",
+   "Sub Region": "Southern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Brazil",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Brunei",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Bulgaria",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Cambodia",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Cameroon",
+   "Sub Region": "Middle Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Canada",
+   "Sub Region": "Northern America",
+   "Continent": "North America",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Cayman Islands",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Chile",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "China",
+   "Sub Region": "Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Colombia",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Croatia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Cuba",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Cyprus",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Czechia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Denmark",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Ecuador",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Egypt",
+   "Sub Region": "Northern Africa",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Estonia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Ethiopia",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Fiji",
+   "Sub Region": "Pacific",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Finland",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "France",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "French Guiana",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "French Polynesia",
+   "Sub Region": "Pacific",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Georgia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Germany",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Ghana",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Greece",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Grenada",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Guadeloupe",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Hong Kong",
+   "Sub Region": "Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Hungary",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Iceland",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "India",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Indonesia",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Iran, Islamic Rebpublic of",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Iraq",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Ireland",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Israel",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Italy",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Japan",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Jersey",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Jordan",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Sub Region": "Central Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Kenya",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Latvia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Lebanon",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Liechtenstein",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Lithuania",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Luxembourg",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Macau",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Malawi",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Malaysia",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Mali",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Malta",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Martinique",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Mexico",
+   "Sub Region": "Central America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Mongolia",
+   "Sub Region": "Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Morocco",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Mozambique",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Myanmar",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Nepal",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Netherlands",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "New Zealand",
+   "Sub Region": "Pacific",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Nigeria",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "North Macedonia",
+   "Sub Region": "Western Asia",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Norway",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Oman",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Pakistan",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Panama",
+   "Sub Region": "Central America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Paraguay",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Peru",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Philippines",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Poland",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Portugal",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Puerto Rico",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Qatar",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Romania",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Russian Federation",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Reunion",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Senegal",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Serbia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Singapore",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Slovakia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Slovenia",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "South Africa",
+   "Sub Region": "Southern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Korea, Democratic People's Republic of",
+   "Sub Region": "Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Spain",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Sub Region": "Southern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Saint Kitts and Nevis",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Sudan",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Sweden",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Switzerland",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Syrian Arab Republic",
+   "Sub Region": "Western Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Taiwan",
+   "Sub Region": "Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Tanzania, United Republic of",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Thailand",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Bahamas",
+   "Sub Region": "Caribbean",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Gambia",
+   "Sub Region": "Western Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Tunisia",
+   "Sub Region": "Northern Africa",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Turkey",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Uganda",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Ukraine",
+   "Sub Region": "Eastern Europe",
+   "Continent": "Europe",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Sub Region": "Western Asia",
+   "Continent": "Arab States",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "United Kingdom",
+   "Sub Region": "Western Europe",
+   "Continent": "Europe",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "United States",
+   "Sub Region": "North America",
+   "Continent": "North America",
+   "South or North": "Global North"
+ },
+ {
+   "Country": "Uruguay",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Venezuela",
+   "Sub Region": "South America",
+   "Continent": "South/Latin America",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Vietnam",
+   "Sub Region": "South-Eastern Asia",
+   "Continent": "Asia & Pacific",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Zambia",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Sub Region": "Eastern Africa",
+   "Continent": "Africa",
+   "South or North": "Global South"
+ }
+]
