@@ -3,11 +3,9 @@
 	color:#999999;
 }
 
-.subdet {
-	color:#999;
-	margin-bottom:5px;
-}
-
-.cluster {
-	margin-bottom:20px;
+.papers {
+	border-style: solid;
+	border-color:#999;
+	border-width:1px;
+	padding:10px;
 }
