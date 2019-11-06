@@ -1,5 +1,6 @@
 let tools = [
   {
+    "map id": 36,
     "Tool Name": "CLOBNET",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -15,6 +16,7 @@ let tools = [
     "Partners": ""
   },
   {
+    "map id": 37,
     "Tool Name": "HealthRex",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -30,6 +32,7 @@ let tools = [
     "Partners": ""
   },
   {
+    "map id": 38,
     "Tool Name": "ClinPhen",
     "Open source": 2,
     "Community size (max = 5)": 1,
@@ -45,6 +48,7 @@ let tools = [
     "Partners": ""
   },
   {
+    "map id": 39,
     "Tool Name": "MedTagger",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -60,6 +64,7 @@ let tools = [
     "Partners": "GdaÅ„sk University of Technology"
   },
   {
+    "map id": 40,
     "Tool Name": "MedTagger",
     "Open source": 2,
     "Community size (max = 5)": 1,
@@ -75,6 +80,7 @@ let tools = [
     "Partners": "Mayo Clinic"
   },
   {
+    "map id": 41,
     "Tool Name": "UNRAVEL",
     "Open source": 1,
     "Community size (max = 5)": 1,
@@ -90,6 +96,7 @@ let tools = [
     "Partners": "University Medical Centre Utrecht University College London"
   },
   {
+    "map id": 42,
     "Tool Name": "CUSTOM-SEQ",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -105,9 +112,10 @@ let tools = [
     "Partners": "Vanderbilt"
   },
   {
+    "map id": 43,
     "Tool Name": "MESSIDOR 2",
     "Open source": 0,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 1,
     "Community Age in years": 6,
     "Years since last update capped at 5 (max = 5 )": 5,
     "Part of wider software community (max = 1)": 0,
@@ -120,9 +128,10 @@ let tools = [
     "Partners": "Ã‰cole des Mines de Paris UniversitÃ© de la Rochelle Nottingham Trent University Brest University Hospital"
   },
   {
+    "map id": 44,
     "Tool Name": "e-ophtha",
     "Open source": 0,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 1,
     "Community Age in years": 7,
     "Years since last update capped at 5 (max = 5 )": 5,
     "Part of wider software community (max = 1)": 1,
@@ -135,6 +144,7 @@ let tools = [
     "Partners": "Ã‰cole des Mines de Paris â€“ Centre de Morphologie MathÃ©matique Ã©lÃ©com Bretagne (IMT Atlantique) Laboratory of Medical Information Processing LaTIM UMR1101 INSERM ADCIS"
   },
   {
+    "map id": 45,
     "Tool Name": "NLP-PAC",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -150,6 +160,7 @@ let tools = [
     "Partners": "Mayo Clinic Sanford Hospital"
   },
   {
+    "map id": 46,
     "Tool Name": "MetaMap",
     "Open source": 1,
     "Community size (max = 5)": 2,
@@ -165,6 +176,7 @@ let tools = [
     "Partners": ""
   },
   {
+    "map id": 47,
     "Tool Name": "CCMapper",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -180,6 +192,7 @@ let tools = [
     "Partners": "Mayo Clinic Loyola University Chicago"
   },
   {
+    "map id": 8,
     "Tool Name": "OHDSI â€” ACHILLES",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -195,6 +208,7 @@ let tools = [
     "Partners": "Columbia Universityâ€™s Department of Biomedical Informatics National Institutes of Health Regenstrief Institute, Indianapolis, IN, USA Stanford University - Biomedical Informatics Research"
   },
   {
+    "map id": 7,
     "Tool Name": "OHDSI - Atlas",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -210,6 +224,7 @@ let tools = [
     "Partners": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA Regenstrief Institute, Indianapolis, IN, USA Center for Biomedical Informatics Research, Stanford University, CA, USA AstraZeneca PLC, Waltham, MA, USA"
   },
   {
+    "map id": 10,
     "Tool Name": "OHDSI - White Rabbit",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -225,6 +240,7 @@ let tools = [
     "Partners": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA Regenstrief Institute, Indianapolis, IN, USA Center for Biomedical Informatics Research, Stanford University, CA, USA"
   },
   {
+    "map id": 9,
     "Tool Name": "OHDSI - Usagi",
     "Open source": 3,
     "Community size (max = 5)": 3,
@@ -240,6 +256,7 @@ let tools = [
     "Partners": "Department of Biomedical Informatics, Columbia University Medical Center, New York, NY, USA Regenstrief Institute, Indianapolis, IN, USA Center for Biomedical Informatics Research, Stanford University, CA, USA"
   },
   {
+    "map id": 11,
     "Tool Name": "PCORnet CDM",
     "Open source": 1,
     "Community size (max = 5)": 3,
@@ -255,6 +272,7 @@ let tools = [
     "Partners": "Research Action for Health Network PEDSnet Duke Clinical Research Institute INSIGHT Clinical Research Network"
   },
   {
+    "map id": 1,
     "Tool Name": "Informatics for Integrating Biology and the Bedside (i2b2)",
     "Open source": 3,
     "Community size (max = 5)": 3,
@@ -270,6 +288,7 @@ let tools = [
     "Partners": "Harvard Medical School Harvard School of Public Health MIT Harvard/MIT Division of Health Sciences and Technology"
   },
   {
+    "map id": 14,
     "Tool Name": "PopMedNet",
     "Open source": 2,
     "Community size (max = 5)": 3,
@@ -285,9 +304,10 @@ let tools = [
     "Partners": "Department of Population Medicine, Harvard Medical School Harvard Pilgrim Health Care Institute"
   },
   {
+    "map id": 13,
     "Tool Name": "Sentinel",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 5,
     "Community Age in years": 15,
     "Years since last update capped at 5 (max = 5 )": 1,
     "Part of wider software community (max = 1)": 1,
@@ -300,9 +320,10 @@ let tools = [
     "Partners": "Center for Drug Evaluation and Research, CDER Center for Biologics and Evaluation, CBER"
   },
   {
+    "map id": 3,
     "Tool Name": "Vaccine Safety Datalink Shared Data Network",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 4,
     "Community Age in years": 30,
     "Years since last update capped at 5 (max = 5 )": 5,
     "Part of wider software community (max = 1)": 0,
@@ -315,6 +336,7 @@ let tools = [
     "Partners": "Centers for Disease Control and Prevention Kaiser Permanente Washington, Seattle, Washington Harvard Pilgrim Health Care Institute, Boston, Massachusetts HealthPartners Institute, Minneapolis, Minnesota"
   },
   {
+    "map id": 2,
     "Tool Name": "HCSRN's Virtual Data Warehouse CDM",
     "Open source": 1,
     "Community size (max = 5)": 2,
@@ -330,9 +352,10 @@ let tools = [
     "Partners": "Baylor Scott & White Center for Applied Health Research Center for Health Research - Hawai'i Center for Health Research - Northwest Essentia Institute of Rural Health"
   },
   {
+    "map id": 4,
     "Tool Name": "CMS Virtual Research Data Center (VRDC)",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 5,
     "Community Age in years": 8,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -345,6 +368,7 @@ let tools = [
     "Partners": "Research Data Assistance Center, CMS UNIVERSITY OF MINNESOTA SCHOOL OF PUBLIC HEALTH HEALTH POLICY & MANAGEMENT"
   },
   {
+    "map id": 5,
     "Tool Name": "CMS VRDC ETL to the OHDSI Common Data Model v5",
     "Open source": 2,
     "Community size (max = 5)": 1,
@@ -360,6 +384,7 @@ let tools = [
     "Partners": "National Library of Medicine"
   },
   {
+    "map id": 6,
     "Tool Name": "OMOP",
     "Open source": 2,
     "Community size (max = 5)": 4,
@@ -375,9 +400,10 @@ let tools = [
     "Partners": "Johnson & Johnson Foundation for the National Institutes of Health U.S. Food and Drug Administration Regenstrief Institute"
   },
   {
+    "map id": 16,
     "Tool Name": "IPCI Database, The Netherlands",
     "Open source": 0,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 3,
     "Community Age in years": 31,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -390,9 +416,10 @@ let tools = [
     "Partners": "Erasmus University Rotterdam"
   },
   {
+    "map id": 48,
     "Tool Name": "Aarhus University Prescription Database",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 4,
     "Community Age in years": 16,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -405,9 +432,10 @@ let tools = [
     "Partners": "University of Copenhagen Aarhus University Aalborg University University of Southern Denmark"
   },
   {
+    "map id": 15,
     "Tool Name": "SIDIAP Database, Spain",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 4,
     "Community Age in years": 14,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -420,9 +448,10 @@ let tools = [
     "Partners": "University Institute in Primary Care Research Jordi Gol Catalan Health Institute Autonomous University of Barcelona"
   },
   {
+    "map id": 17,
     "Tool Name": "Health Search Database (HSD), Italy",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 4,
     "Community Age in years": 22,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -435,9 +464,10 @@ let tools = [
     "Partners": "Italian College of General Practitioners Italian Society of General Medicine and Primary Care"
   },
   {
+    "map id": 24,
     "Tool Name": "PEDIANET Paediatric Database, Italy",
     "Open source": 0,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 4,
     "Community Age in years": 22,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -450,9 +480,10 @@ let tools = [
     "Partners": "SocietÃ Servizi Telematici"
   },
   {
+    "map id": 25,
     "Tool Name": "Clinical Practice Research Datalink (CPRD)",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 5,
     "Community Age in years": 8,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -465,9 +496,10 @@ let tools = [
     "Partners": "National Institute for Health Research (NIHR) Medicines and Healthcare products Regulatory Agency (MHRA) NHS Digital"
   },
   {
+    "map id": 26,
     "Tool Name": "The Health Improvement Network (THIN)",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 4,
     "Community Age in years": 17,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -480,6 +512,7 @@ let tools = [
     "Partners": "Cegedim SA University College London University of Birmingham"
   },
   {
+    "map id": 27,
     "Tool Name": "CALIBER",
     "Open source": 1,
     "Community size (max = 5)": 2,
@@ -495,9 +528,10 @@ let tools = [
     "Partners": "University College London London School of Hygiene and Tropical Medicine Queen Mary University of London"
   },
   {
+    "map id": 33,
     "Tool Name": "RDMP Health Informatics Centre, Dundee",
     "Open source": 3,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 3,
     "Community Age in years": 8,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -510,6 +544,7 @@ let tools = [
     "Partners": "University of Dundee Tayside Medical Science Centre (TASC) Farr Institute NHS Tayside and NHS Fife"
   },
   {
+    "map id": 34,
     "Tool Name": "elab HERC Manchester",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -525,6 +560,7 @@ let tools = [
     "Partners": "University of Manchester Northern Academic Health Science Network Manchester Academic Health Science Centre Northern Health Science Alliance"
   },
   {
+    "map id": 22,
     "Tool Name": "Jerboa",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -540,6 +576,7 @@ let tools = [
     "Partners": "Department of Medical Informatics Erasmus MC, Rotterdam, The Netherlands EU-ADR Alliance GRIP NETWORK GRIP"
   },
   {
+    "map id": 20,
     "Tool Name": "TASKA",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -555,6 +592,7 @@ let tools = [
     "Partners": "University of Aveiro, Dept. Electronics, Telecommunications and Informatics (DETI / IEETA) Agenzia Regionale di SanitÃ della Toscana, Florence, Italy Erasmus MC, Rotterdam, Netherlands"
   },
   {
+    "map id": 21,
     "Tool Name": "OCTOPUS Private Remote Research Environment",
     "Open source": 0,
     "Community size (max = 5)": 2,
@@ -570,9 +608,10 @@ let tools = [
     "Partners": "Department of Medical Informatics of Erasmus Medical Center (EMC) EMIF"
   },
   {
+    "map id": 49,
     "Tool Name": "EMIF Catalogue",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 4,
     "Community Age in years": 6,
     "Years since last update capped at 5 (max = 5 )": 5,
     "Part of wider software community (max = 1)": 1,
@@ -585,6 +624,7 @@ let tools = [
     "Partners": "European Federation of Pharmaceutical Industries and Associations Innovative Medicines Initiative"
   },
   {
+    "map id": 35,
     "Tool Name": "Aberdeen AKI-phenotyping Algorithm",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -600,6 +640,7 @@ let tools = [
     "Partners": "Institute of Applied Health Sciences, University of Aberdeen, Aberdeen, UK Farr Institute of Health Informatics Research, UK Centre for Health Informatics, Division of Informatics, Imaging and Data Sciences, Faculty of Biology, Medicine and Health, Manchester Academic Health Science Centre, The University of Manchester, Manchester, UK"
   },
   {
+    "map id": 31,
     "Tool Name": "JISC SafeShare project",
     "Open source": 0,
     "Community size (max = 5)": 2,
@@ -615,6 +656,7 @@ let tools = [
     "Partners": "The Farr Institute The Administrative Data Research Network MRC Medical Bioinformatics initiative"
   },
   {
+    "map id": 30,
     "Tool Name": "UK Secure eResearch Platform",
     "Open source": 1,
     "Community size (max = 5)": 2,
@@ -630,6 +672,7 @@ let tools = [
     "Partners": "Health Informatics Team at Swansea University Farr Institute for Health Informatics Research School of Medicine, Swansea University"
   },
   {
+    "map id": 29,
     "Tool Name": "Secure Anonymised Information Linkage - SAIL Data Bank",
     "Open source": 1,
     "Community size (max = 5)": 3,
@@ -645,6 +688,7 @@ let tools = [
     "Partners": "Swansea University Health and Care Research Wales Cymru NHS Wales"
   },
   {
+    "map id": "",
     "Tool Name": "Survey 2!",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -660,9 +704,10 @@ let tools = [
     "Partners": ""
   },
   {
+    "map id": 100,
     "Tool Name": "EMedlab",
     "Open source": 0,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 2,
     "Community Age in years": 2020,
     "Years since last update capped at 5 (max = 5 )": 1,
     "Part of wider software community (max = 1)": 0,
@@ -675,6 +720,7 @@ let tools = [
     "Partners": "Queen Mary University of London UCL London School of Hygiene & Tropical Medicine Francis Crick Institute"
   },
   {
+    "map id": 101,
     "Tool Name": "CogStack Pipeline",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -690,6 +736,7 @@ let tools = [
     "Partners": "Institute of Psychiatry, Psychology and Neuroscience, Kingâ€™s College London, InterDigital Communications Kingâ€™s College Hospital"
   },
   {
+    "map id": 102,
     "Tool Name": "MedCATTrainer",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -705,6 +752,7 @@ let tools = [
     "Partners": "KingÂ´s College London"
   },
   {
+    "map id": 103,
     "Tool Name": "NLP-PIER",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -720,6 +768,7 @@ let tools = [
     "Partners": "University of Minnesota Institute for Health Informatics NLP/IE Group Fairview Health Services Information Technology (FHS-IT) Academic Health Center-Information Services (AHC-IS)"
   },
   {
+    "map id": 104,
     "Tool Name": "Cognition",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -735,6 +784,7 @@ let tools = [
     "Partners": "Kings College London"
   },
   {
+    "map id": 105,
     "Tool Name": "TextHunter",
     "Open source": 2,
     "Community size (max = 5)": 1,
@@ -750,6 +800,7 @@ let tools = [
     "Partners": "Institute of Psychiatry, Psychology & Neuroscience, King's College London Department of Computer Science, University of Sheffield"
   },
   {
+    "map id": 106,
     "Tool Name": "Machine-readable electronic health record phenotyping algorithms",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -765,6 +816,7 @@ let tools = [
     "Partners": "Institute of Cardiovascular Science, London Health Data Research UK London Institute of Health Informatics, University College London, London, UK Alan Turing Institute, London, UK"
   },
   {
+    "map id": 107,
     "Tool Name": "OpenPathology: supporting better diagnostic testing",
     "Open source": 3,
     "Community size (max = 5)": 1,
@@ -780,6 +832,7 @@ let tools = [
     "Partners": "EBM DataLab, University of Oxford"
   },
   {
+    "map id": 108,
     "Tool Name": "OpenPrescribing",
     "Open source": 1,
     "Community size (max = 5)": 2,
@@ -795,9 +848,10 @@ let tools = [
     "Partners": "EBM DataLab, University of Oxford, 2019"
   },
   {
+    "map id": 109,
     "Tool Name": "BREATHE - The Health Data Research Hub for Respiratory Health",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 3,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -810,9 +864,10 @@ let tools = [
     "Partners": "The University of Edinburgh (lead institution) Imperial College of Science Technology and Medicine Nottingham University Hospitals NHS Trust Swansea University"
   },
   {
+    "map id": 110,
     "Tool Name": "Discover-NOW - The Health Data Research Hub for Real World Evidence",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 4,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -825,9 +880,10 @@ let tools = [
     "Partners": "Imperial College Health Partners (lead institution) Association of Medical Research Charities Diabetes UK Imperial College Healthcare NHS Trust"
   },
   {
+    "map id": 111,
     "Tool Name": "G.I. Know - The Health Data Research Hub for Inflammatory Bowel Disease",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 4,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -840,6 +896,7 @@ let tools = [
     "Partners": "Eastern Academic Health Science Network (lead institution) University of Cambridge Cambridge University Health Partners University College Hospital"
   },
   {
+    "map id": 112,
     "Tool Name": "INSIGHT - The Health Data Research Hub for Eye Health",
     "Open source": 1,
     "Community size (max = 5)": 4,
@@ -855,9 +912,10 @@ let tools = [
     "Partners": "University Hospitals Birmingham NHSFT (lead institution) Moorfields Eye Hospital NHSFT University of Birmingham Roche"
   },
   {
+    "map id": 113,
     "Tool Name": "NHS DigiTrial - The Health Data Research Hub for Clinical Trials",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 4,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -870,9 +928,10 @@ let tools = [
     "Partners": "NHS Digital (lead institution) University of Oxford IBM Microsoft"
   },
   {
+    "map id": 114,
     "Tool Name": "PIONEER - The Health Data Research Hub for Acute Care",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 4,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -885,9 +944,10 @@ let tools = [
     "Partners": "University of Birmingham (lead organisation) Birmingham Community Healthcare NHS Foundation Trust Birmingham Childrenâ€™s Hospital Sandwell General Hospital"
   },
   {
+    "map id": 115,
     "Tool Name": "DATA-CAN - The Health Data Research Hub for Cancer",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 4,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 1,
@@ -900,6 +960,7 @@ let tools = [
     "Partners": "UCLPartners (lead institution) IQVIA Queenâ€™s University Belfast University of Leeds & Leeds Teaching Hospitals"
   },
   {
+    "map id": 116,
     "Tool Name": "Medical Information Mart for Intensive Care - MIMIC III/IV",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -915,6 +976,7 @@ let tools = [
     "Partners": "MIT Institute for Medical Engineering and Science, Massachusetts Institute of Technology Information Systems, Beth Israel Deaconess Medical Center Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology"
   },
   {
+    "map id": 117,
     "Tool Name": "MIMIC Query Builder v1.2",
     "Open source": 0,
     "Community size (max = 5)": 4,
@@ -930,6 +992,7 @@ let tools = [
     "Partners": "Laboratory for Computational Physiology, MIT Institute for Medical Engineering and Science, Massachusetts Institute of Technology Laboratory for Computational Physiology, MIT Institute for Medical Engineering and Science, Massachusetts Institute of Technology Information Systems, Beth Israel Deaconess Medical Center, Boston"
   },
   {
+    "map id": 118,
     "Tool Name": "PhysioToolKit",
     "Open source": 3,
     "Community size (max = 5)": 3,
@@ -945,6 +1008,7 @@ let tools = [
     "Partners": "MIT Laboratory for Computational Physiology"
   },
   {
+    "map id": 119,
     "Tool Name": "ECG-kit",
     "Open source": 3,
     "Community size (max = 5)": 3,
@@ -960,6 +1024,7 @@ let tools = [
     "Partners": "Department of Electronic Engineering, Universidad TecnolÃ³gica Nacional, Buenos Aires, AR"
   },
   {
+    "map id": 120,
     "Tool Name": "deid PhysioNet",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -975,6 +1040,7 @@ let tools = [
     "Partners": "Laboratory for Computational Physiology, Massachusetts Institute of Technology"
   },
   {
+    "map id": 121,
     "Tool Name": "Engauge-Digitizer",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -990,6 +1056,7 @@ let tools = [
     "Partners": "Mark Mitchell"
   },
   {
+    "map id": 122,
     "Tool Name": "Open Source ECG Analysis Software",
     "Open source": 2,
     "Community size (max = 5)": 2,
@@ -1005,6 +1072,7 @@ let tools = [
     "Partners": "EP Limited"
   },
   {
+    "map id": 123,
     "Tool Name": "LastWave",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -1020,6 +1088,7 @@ let tools = [
     "Partners": "Ecole Polytechnique - France"
   },
   {
+    "map id": 124,
     "Tool Name": "SWDreader",
     "Open source": 2,
     "Community size (max = 5)": 1,
@@ -1035,6 +1104,7 @@ let tools = [
     "Partners": "The Jackson Laboratory Graduate School for Biomedical Sciences and Engineering, University of Maine, Orono Department of Neurology, School of Medicine, Washington University, St. Louis CompuMAINE Lab, Department of Mathematics, University of Maine"
   },
   {
+    "map id": 125,
     "Tool Name": "Open-Source Electrophysiological Toolbox (OSET)",
     "Open source": 3,
     "Community size (max = 5)": 2,
@@ -1050,6 +1120,7 @@ let tools = [
     "Partners": "School of Electrical & Computer Engineering, Shiraz University, Shiraz, Iran"
   },
   {
+    "map id": 126,
     "Tool Name": "Kubios HRV",
     "Open source": 2,
     "Community size (max = 5)": 3,
@@ -1065,6 +1136,7 @@ let tools = [
     "Partners": "Kubios Oy"
   },
   {
+    "map id": 127,
     "Tool Name": "MNE (MEG +EEG Analysis & Visualisation)",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -1080,6 +1152,7 @@ let tools = [
     "Partners": "Massachusetts General Hospital Institut Mines-Telecom, Telecom ParisTech Harvard Medical School NeuroSpin"
   },
   {
+    "map id": 128,
     "Tool Name": "EEGLab",
     "Open source": 3,
     "Community size (max = 5)": 4,
@@ -1095,6 +1168,7 @@ let tools = [
     "Partners": "Swartz Center for Computational Neuroscience, UC San Diego"
   },
   {
+    "map id": 129,
     "Tool Name": "Cartool",
     "Open source": 3,
     "Community size (max = 5)": 3,
@@ -1110,9 +1184,10 @@ let tools = [
     "Partners": "FBMLab Geneva, Switzerland"
   },
   {
+    "map id": 130,
     "Tool Name": "DARTNet",
     "Open source": 0,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 5,
     "Community Age in years": 11,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1125,9 +1200,10 @@ let tools = [
     "Partners": "DARTNet Institute Northwestern University University of California San Diego University of Minnesota"
   },
   {
+    "map id": 131,
     "Tool Name": "ImproveCareNow Network registry",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 2,
     "Community Age in years": 5,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1140,6 +1216,7 @@ let tools = [
     "Partners": "ImproveCareNow Network University of Vermont Anderson Center for Health Systems Excellence at Cincinnati Childrenâ€™s Hospital Medical Center"
   },
   {
+    "map id": 132,
     "Tool Name": "Shrine",
     "Open source": 2,
     "Community size (max = 5)": 2,
@@ -1155,9 +1232,10 @@ let tools = [
     "Partners": "Harvard Medical School Beth Israel Deaconess Medical Center Boston Childrenâ€™s Hospital righam and Womenâ€™s Hospital"
   },
   {
+    "map id": 133,
     "Tool Name": "Insite Platform",
     "Open source": 0,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 3,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1170,6 +1248,7 @@ let tools = [
     "Partners": "Insite"
   },
   {
+    "map id": 134,
     "Tool Name": "cPDS Algorithm",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -1185,6 +1264,7 @@ let tools = [
     "Partners": "Boston University Massachusetts General Hospital Arizona State University"
   },
   {
+    "map id": 135,
     "Tool Name": "Privacy-Preserving Patient Similarity Learning in a Federated Environment",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -1200,6 +1280,7 @@ let tools = [
     "Partners": "Ulsan National Institute of Science and Technology University of California San Diego Pohang University of Science and Technology Georgia Institute of Technology"
   },
   {
+    "map id": 136,
     "Tool Name": "Distributed deep learning networks among institutions for medical imaging",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -1215,9 +1296,10 @@ let tools = [
     "Partners": "Massachusetts General Hospital Stanford University"
   },
   {
+    "map id": 137,
     "Tool Name": "Smart Medical Information Technology for Healthcare (SMITH)",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 3,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1230,9 +1312,10 @@ let tools = [
     "Partners": "Leipzig University University Medical Center Jena RWTH Aachen University University Medical Center Hamburg-Eppendorf"
   },
   {
+    "map id": 138,
     "Tool Name": "HiGHmed",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 3,
     "Community Age in years": 2,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1245,9 +1328,10 @@ let tools = [
     "Partners": "U Braunschweig and Hannover Medical School Kiel University and University Medical Center Schleswig-Holstein University Medical Center Goettingen University Hospital Heidelberg"
   },
   {
+    "map id": 139,
     "Tool Name": "eMERGE",
     "Open source": 1,
-    "Community size (max = 5)": 2,
+    "Community size (max = 5)": 3,
     "Community Age in years": 9,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1260,9 +1344,10 @@ let tools = [
     "Partners": "Vanderbilt University Harvard University Mayo Clinic Columbia University"
   },
   {
+    "map id": 140,
     "Tool Name": "French Western Clinical Data Center Network",
     "Open source": 0,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 3,
     "Community Age in years": 4,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1275,9 +1360,10 @@ let tools = [
     "Partners": "CHU Rennes CHU Brest CHU Nantes CHU Poitiers"
   },
   {
+    "map id": 141,
     "Tool Name": "French Health Data Hub",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 5,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1290,9 +1376,10 @@ let tools = [
     "Partners": "French Health Service UniversitÃ© de Rennes"
   },
   {
+    "map id": 142,
     "Tool Name": "Swiss Personalized Health Network (SPHN)",
     "Open source": 1,
-    "Community size (max = 5)": 1,
+    "Community size (max = 5)": 5,
     "Community Age in years": 1,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1305,9 +1392,10 @@ let tools = [
     "Partners": "Swiss Personalized Health Network (SPHN) Swiss Academy of Medical Sciences (SAMS) ETHZurich University of Basel"
   },
   {
+    "map id": 143,
     "Tool Name": "Indiana Network for Patient Care",
     "Open source": 1,
-    "Community size (max = 5)": 3,
+    "Community size (max = 5)": 5,
     "Community Age in years": 30,
     "Years since last update capped at 5 (max = 5 )": 0,
     "Part of wider software community (max = 1)": 0,
@@ -1320,6 +1408,7 @@ let tools = [
     "Partners": "Indiana Health Information Exchange Regenstrief Institute partnership"
   },
   {
+    "map id": 144,
     "Tool Name": "Federated-Autonomous Deep Learning (FADL)",
     "Open source": 0,
     "Community size (max = 5)": 1,
@@ -1333,5 +1422,405 @@ let tools = [
     "Medical Area": "Emergency medicine",
     "Tool purpose": "Federated Databank (Shared Health Data Network)",
     "Partners": "Boston Childrenâ€™s Hospital Harvard Medical School"
+  },
+  {
+    "map id": 145,
+    "Tool Name": "Insight Toolkit (ITK)",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 21,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Kitware GE Corporate R&D Insightful UNC Chapel Hill"
+  },
+  {
+    "map id": 146,
+    "Tool Name": "Visualization Toolkit (VTK)",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 27,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Other",
+    "Partners": "Kitware Los Alamos National Lab (LANL) Department of Energy (DOE) ASC Program Sandia National Laboratories"
+  },
+  {
+    "map id": 147,
+    "Tool Name": "3D Slicer",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 8,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data,Medical Device Data",
+    "Medical Area": "All",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Brigham and Womenâ€™s Hospital, Harvard Medical School, Boston, MA University of Iowa, Iowa City, IA 3Massachusetts General Hospital, Harvard Medical School, Charlestown, MA Kitware Inc, Clifton Park, NY"
+  },
+  {
+    "map id": 148,
+    "Tool Name": "interactive Medical Simulation Toolkit",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 3,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "Sport and exercise medicine,Surgical specialties",
+    "Tool purpose": "Tools for Coping with Complex Statistical Characteristics of EHR data",
+    "Partners": "Kitware University of Central Arkansas Rensselaer"
+  },
+  {
+    "map id": 149,
+    "Tool Name": "Pulse Physiology Engine",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 3,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 2,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Imaging data",
+    "Medical Area": "Paediatrics and child health,Surgical specialties",
+    "Tool purpose": "Application / Algorithm for Clinical Decision Support",
+    "Partners": "Kitware University of North Carolina Chapel Hill USA University of Tennessee Knoxville USA Bucknell University Lewisburg USA"
+  },
+  {
+    "map id": 150,
+    "Tool Name": "CTK - The Common Toolkit",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 9,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "KitWare DICOM@OFFIS Georgetown University German Cancer Research Center"
+  },
+  {
+    "map id": 151,
+    "Tool Name": "GIMIAS - Graphical Interface for Medical Image Analysis and Simulation",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 11,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Reuseable Research Platform,Tools for Converting EHR to Feature Sets",
+    "Partners": "Department of Electronic and Electrical Engineering, University of Sheffield"
+  },
+  {
+    "map id": 152,
+    "Tool Name": "KWWidgets",
+    "Open source": 3,
+    "Community size (max = 5)": 3,
+    "Community Age in years": 17,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 2,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Query Interface to Databank (GUI, Query Lanaguage, Precomplied algorithm)",
+    "Partners": "Kitware, Inc"
+  },
+  {
+    "map id": 153,
+    "Tool Name": "Open Inventor",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 17,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "All",
+    "Tool purpose": "Application / Algorithm for Clinical Decision Support",
+    "Partners": "Thermo Fisher Scientific"
+  },
+  {
+    "map id": 154,
+    "Tool Name": "ImageJ",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 23,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data",
+    "Medical Area": "Generalisable Tool",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "National Institutes of Health Laboratory for Optical and Computational Instrumentation (LOCI, University of Wisconsin)."
+  },
+  {
+    "map id": 155,
+    "Tool Name": "Fiji",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 9,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Imaging data",
+    "Medical Area": "Generalisable Tool",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Laboratory for Optical and Computation (LOCI) at UW-Madison Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG) at DresdenBroad Institute of MIT and HarvardUniversity of Konstanz, GermanyKNIME GmbHGlencoe Software, Inc.University of Dundee, ScotlandNational Institutes of HealthTrue North Intelligent Algorithms LLCMarine Biological Laboratory (MBL) at Woods HoleBerlin Institute of Medical Systems Biology (BIMSB) of the Max DelbrÃ¼ck Center (MDC)HHMI Janelia Research CampusInstitut Pasteur, Paris, FranceIkerbasque, Basque Foundation for Science, SpainFriedrich Miescher Institute for Biomedical Research (FMI), Basel, SwitzerlandMcGill UniversityGE Healthcare (Applied Precision, Inc.)University of BirminghamUniversity of Idaho, MoscowUniversity of Applied Sciencs and Arts Dortmund, GermanyInstitute of Neuroinformatics, Uni/ETH Zurich This pa Broad Institute of MIT and Harvard University of Konstanz, Germany"
+  },
+  {
+    "map id": 156,
+    "Tool Name": "KNIME",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 16,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Imaging data,All EHR Data",
+    "Medical Area": "Generalisable Tool",
+    "Tool purpose": "Other",
+    "Partners": "University of Konstanz"
+  },
+  {
+    "map id": 157,
+    "Tool Name": "BioSig",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 12,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Graz University of Technology"
+  },
+  {
+    "map id": 158,
+    "Tool Name": "PhysioBank",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 20,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Pooled Databank (Shared Health Data Network)",
+    "Partners": "From the Margret and H.A. Rey Laboratory for Nonlinear Dynamics in Medicine, Beth Israel Deaconess Medical Center/Harvard Medical School, Boston"
+  },
+  {
+    "map id": 159,
+    "Tool Name": "LightWave",
+    "Open source": 3,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 10,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 0,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Clinician-led Cleaning / Review",
+    "Partners": "Massachusetts Institute of Technology"
+  },
+  {
+    "map id": 160,
+    "Tool Name": "eICU Collaborative Research Database",
+    "Open source": 1,
+    "Community size (max = 5)": 4,
+    "Community Age in years": 4,
+    "Years since last update capped at 5 (max = 5 )": 1,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 2,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Anaesthesia,Other",
+    "Tool purpose": "Pooled Databank (Shared Health Data Network)",
+    "Partners": "Philips Healthcare MIT Laboratory for Computational Physiology"
+  },
+  {
+    "map id": 161,
+    "Tool Name": "PhysOnline",
+    "Open source": 2,
+    "Community size (max = 5)": 1,
+    "Community Age in years": 3,
+    "Years since last update capped at 5 (max = 5 )": 2,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 0,
+    "online training": 0,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Application / Algorithm for Clinical Decision Support",
+    "Partners": "UTHSC-ORNL Center for Biomedical Informatics University of Tennessee Health Science Center"
+  },
+  {
+    "map id": 162,
+    "Tool Name": "ISRUC-SLEEP Dataset",
+    "Open source": 2,
+    "Community size (max = 5)": 1,
+    "Community Age in years": 4,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 1,
+    "online training": 0,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Other",
+    "Tool purpose": "Pooled Databank (Shared Health Data Network)",
+    "Partners": "Institute of Systems and Robotics (ISR-UC), Department of Electrical and Computer Engineering, University of Coimbra"
+  },
+  {
+    "map id": 163,
+    "Tool Name": "SigViewer",
+    "Open source": 3,
+    "Community size (max = 5)": 3,
+    "Community Age in years": 7,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Clinician-led Cleaning / Review",
+    "Partners": "Institute for Knowledge Discovery, Graz University of Technology, Austria"
+  },
+  {
+    "map id": 164,
+    "Tool Name": "SignalServer",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 7,
+    "Years since last update capped at 5 (max = 5 )": 2,
+    "Part of wider software community (max = 1)": 1,
+    "Wide spread usage (max = 3)": 1,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Institute for Knowledge Discovery, Graz University of Technology, Austria"
+  },
+  {
+    "map id": 165,
+    "Tool Name": "StimFit",
+    "Open source": 2,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 6,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 0,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets",
+    "Partners": "Institute of Science and Technology Austria, Klosterneuburg, Austria Wolfson Institute for Biomedical Research, University College London, London, UK Department of Neuroscience, Physiology and Pharmacology, University College London, London, UK"
+  },
+  {
+    "map id": 166,
+    "Tool Name": "OpenVibe",
+    "Open source": 3,
+    "Community size (max = 5)": 3,
+    "Community Age in years": 10,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 1,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Clinician-led Cleaning / Review",
+    "Partners": "Inria Rennes INSERM Orange Labs"
+  },
+  {
+    "map id": 167,
+    "Tool Name": "OpenWalnut",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 10,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Imaging data,Waveform data",
+    "Medical Area": "Surgical specialties,Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Clinician-led Cleaning / Review,Other",
+    "Partners": "Institut fÂ¨ur Informatik, UniversitÂ¨at Leipzig, Germany Institute for Data Analysis and Visualization (IDAV) Department of Biomedical Imaging, University of California, Davis"
+  },
+  {
+    "map id": 168,
+    "Tool Name": "EDFBrowser",
+    "Open source": 3,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 3,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 3,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Surgical specialties",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Clinician-led Cleaning / Review,Tools for Coping with Complex Statistical Characteristics of EHR data",
+    "Partners": "The Neural Engineering Data Consortium, Temple University"
+  },
+  {
+    "map id": 169,
+    "Tool Name": "PDKit",
+    "Open source": 2,
+    "Community size (max = 5)": 2,
+    "Community Age in years": 3,
+    "Years since last update capped at 5 (max = 5 )": 0,
+    "Part of wider software community (max = 1)": 0,
+    "Wide spread usage (max = 3)": 1,
+    "online training": 1,
+    "face to face": 0,
+    "Data types": "Waveform data",
+    "Medical Area": "Other",
+    "Tool purpose": "Tools for Converting EHR to Feature Sets,Tools for Coping with Complex Statistical Characteristics of EHR data",
+    "Partners": "University of London"
   }
-]
+];
