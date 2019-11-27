@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>Tools</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <script src="js/jquery.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/site.css"/>
+        <script src="js/d3.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Tool List</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                <div class="col-md-12">
+                    <p>
+                        <select id="tooltypeselect">
+                            <option value="0">No Filter</option>
+                            <option value="1">Ecosystem 1 - Pooled Data</option>
+                            <option value="2">Ecosystem 2 - Federated Data</option>
+                            <option value="3">Ecosystem 3 - Common Data Models</option>
+                            <option value="4">Ecosystem 4 - Trust, privacy and security</option>
+                            <option value="5">Ecosystem 5 - NLP</option>
+                            <option value="6">Ecosystem 6 - Biosignal</option>
+                            <option value="7">Ecosystem 7 - BioImaging</option>
+                            <option value="8">Ecosystem 8 - Phenotyping</option>
+                            <option value="9">Ecosystem 9 - Other</option>
+                        </select>
+                    </p>
+                </div>
+            </div>
+            
+            <div id="viz"></div>
+        </div>
+        <div id="loadingModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <p>Loading</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="toolModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 id="tool_name"></h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div id="tool_viz" class="singleviz"></div>
+                                <p id="tool_ecosystems"></p>
+                                <p id="tool_datatypes"></p>
+                                <p id="tool_medicalarea"></p>
+                                <p id="tool_purpose"></p>
+                            </div>
+                            <div class="col-md-6">
+                                <p id="tool_description"></p>
+                                <p id="tool_toollink"></p>
+                                <p id="tool_partners"></p>
+                                <p id="tool_network"></p>
+                                <p id="tool_contact"></p>
+                                <p id="tool_paperlink"></p>     
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="tool_extra"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="data/tools.js"></script>
+        <script src="data/vizsvg.js"></script>        
+        <script src="js/site.js"></script>    
+    </body>
+</html>

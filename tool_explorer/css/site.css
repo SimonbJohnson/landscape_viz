@@ -1,0 +1,31 @@
+.toolviz {
+	margin-bottom:60px;
+}
+
+#text8 {
+	font-size:10px !important;
+	font-family: 'Roboto';
+}
+
+#text10 {
+	font-size:10px !important;
+	font-family: 'Roboto' !important;
+}
+
+.tooltitle {
+	font-size:1.25em;
+}
+
+@media screen and (min-width: 768px) {
+  .modal-lg{
+      width:900px;
+  }
+
+  .modal-sm{
+      width:300px;
+  }
+}
+
+#tooviz {
+	margin-bottom:10px;
+}
