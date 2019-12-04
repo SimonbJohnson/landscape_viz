@@ -81,13 +81,19 @@ function showTool(tool){
 	}
 	if(tool['Contact']!=''){
 		$('#tool_contact').html('<b>Contact:</b> '+tool['Contact']);
+	} else {
+		$('#tool_contact').html('');
 	}
 	if(tool['wider network']!=''){
 		$('#tool_network').html('<b>Wider Network:</b> '+tool['wider network']);
+	} else {
+		$('#tool_network').html('');
 	}
 	$('#tool_datatypes').html('<b>Data Types:</b> '+tool['Data types']);
 	if(tool['Medical Area'].indexOf('All')==-1 && tool['Medical Area'].indexOf('Generalisable Tool')==-1){
 		$('#tool_medicalarea').html('<b>Medical Area:</b> '+tool['Medical Area']);
+	} else {
+		$('#tool_medicalarea').html('');
 	}
 	$('#tool_partners').html('<b>Partners:</b> '+tool['Partners']);
 	$('#tool_ecosystems').html('<b>Ecosystems:</b> ');
@@ -95,6 +101,12 @@ function showTool(tool){
 		let index = parseInt(e)-1;
 		$('#tool_ecosystems').append(ecosystems[index]+', ');
 	});
+	if(tool['extra_image']!=""){
+		$('#tool_extra').html('<p>Associated Image:</p><img width="100%" src="images/extras/'+tool['extra_image']+'" />');
+	} else {
+		$('#tool_extra').html('');
+	}
+	
 	$('#toolModal').modal('show');
 }
 

@@ -22,7 +22,8 @@ let tools = [
     "Description": "CLOBNET is a scalable machine learning environment designed to process clinical data and to generate predictive models for disease prognostics. It contains all the required processes in a single package, thus providing a convenient setup and fast development of the automatic integration of data from multiple sources, such as research databases and EHR systems.",
     "short name": "CLOBNET",
     "short description": "CLOBNET is a scalable machine learning environment designed to process clinical data and to generate predictive models for disease prognostics.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 37,
@@ -47,7 +48,8 @@ let tools = [
     "Description": "recommender system that automatically data-mines inpatient decision support from electronic medical records (EMR), analogous to Netflix or Amazon.com's product recommender.",
     "short name": "HealthRex",
     "short description": "Recommender system that automatically data-mines inpatient decision support from EHR for similar patients.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 38,
@@ -72,7 +74,8 @@ let tools = [
     "Description": "ClinPhen, a fast, high-accuracy tool that automatically converts clinical notes into a prioritized list of patient phenotypes using Human Phenotype Ontology (HPO) terms.",
     "short name": "ClinPhen",
     "short description": "ClinPhen, a fast, high-accuracy tool that automatically converts clinical notes into a prioritized list of patient phenotypes using HPO terms.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 39,
@@ -89,7 +92,7 @@ let tools = [
     "Data types": "Imaging data",
     "Medical Area": "Generalisable Tool",
     "Tool purpose": "Tools for Clinician-led Cleaning / Review",
-    "Partners": "GdaÅ„sk University of Technology",
+    "Partners": "Gdansk University of Technology",
     "Ecosystem": 5,
     "Tool link": "https://github.com/medtagger/MedTagger",
     "Paper link": "https://www.ncbi.nlm.nih.gov/pubmed/31066686",
@@ -97,32 +100,8 @@ let tools = [
     "Description": "MedTagger is a collaborative framework for annotating medical datasets.Main goal of this project was to design and develop software environment, which helps in aggregation and labeling huge datasets of medical scans, powered by idea of crowdsourcing. Platform also provides mechanism for label validation, thus making produced datasets of labels more reliable for the future use.",
     "short name": "MedTagger",
     "short description": "MedTagger is a crowdsourcing framework for annotating medical datasets which helps in aggregation and labeling huge datasets of medical scans.",
-    "wider network": ""
-  },
-  {
-    "map id": 40,
-    "Tool Name": "MedTagger",
-    "Open source": 2,
-    "Community size": 1,
-    "Databank size": 0,
-    "Community Age in years": 8,
-    "Years since last update capped at 5 (max = 5 )": 0,
-    "Part of wider software community (max = 1)": 1,
-    "Wide spread usage (max = 3)": 0,
-    "online training": 0,
-    "face to face": 0,
-    "Data types": "Clinical Notes",
-    "Medical Area": "All",
-    "Tool purpose": "Tools for Converting EHR to Feature Sets",
-    "Partners": "Mayo Clinic",
-    "Ecosystem": "duplicate",
-    "Tool link": "https://github.com/OHNLP/MedTagger",
-    "Paper link": "https://www.ncbi.nlm.nih.gov/pubmed/31066686",
-    "Contact": "Andrew Wen <2060andrew@gmail.com>",
-    "Description": "https://github.com/OHNLP/MedTagger",
-    "short name": "MedTagger",
-    "short description": "https://github.com/OHNLP/MedTagger",
-    "wider network": "Open Health Natural Language Processing https://github.com/OHNLP"
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 41,
@@ -147,7 +126,8 @@ let tools = [
     "Description": "Using routine electronic health records and standardized biobanking, big data analysis on a larger number of patients and investigations are made possible. The UNRAVEL research data platform is embedded in routine practice to facilitate research in genetic cardiomyopathies.",
     "short name": "UNRAVEL",
     "short description": "Using routine electronic health records and standardized biobanking, The UNRAVEL data platform facilitates research in genetic cardiomyopathies.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3qUbMmHSeipTOTS_12471_2019_1288_Fig1_HTML.jpg"
   },
   {
     "map id": 42,
@@ -172,7 +152,8 @@ let tools = [
     "Description": "a prototype for oncology rapid learning in a comprehensive EHR environment",
     "short name": "CUSTOM-SEQ (Oncology)",
     "short description": "a prototype for oncology rapid learning in a comprehensive EHR environment.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2wuhoPH6afU7ck5_ocw008f1p.jpg"
   },
   {
     "map id": 43,
@@ -189,7 +170,7 @@ let tools = [
     "Data types": "Imaging data",
     "Medical Area": "Ophthalmology",
     "Tool purpose": "Pooled Databank (Shared Health Data Network)",
-    "Partners": "Ã‰cole des Mines de Paris UniversitÃ© de la Rochelle Nottingham Trent University Brest University Hospital",
+    "Partners": "Ecole des Mines de Paris UniversitÃ© de la Rochelle Nottingham Trent University Brest University Hospital",
     "Ecosystem": 1,
     "Tool link": "http://www.adcis.net/en/third-party/messidor2/",
     "Paper link": "https://www.ncbi.nlm.nih.gov/pubmed/28359545",
@@ -197,7 +178,8 @@ let tools = [
     "Description": "The Messidor-2 dataset is a collection of Diabetic Retinopathy (DR) examinations, each consisting of two macula-centered eye fundus images (one per eye).",
     "short name": "MESSIDOR-2",
     "short description": "Messidor-2 dataset is a collection of Diabetic Retinopathy (DR) examinations, each consisting of two macula-centered eye fundus images (one per eye).",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 44,
@@ -214,7 +196,7 @@ let tools = [
     "Data types": "Imaging data",
     "Medical Area": "Ophthalmology",
     "Tool purpose": "Pooled Databank (Shared Health Data Network)",
-    "Partners": "Ã‰cole des Mines de Paris â€“ Centre de Morphologie MathÃ©matique Ã©lÃ©com Bretagne (IMT Atlantique) Laboratory of Medical Information Processing LaTIM UMR1101 INSERM ADCIS",
+    "Partners": "Ecole des Mines de Paris â€“ Centre de Morphologie MathÃ©matique Ã©lÃ©com Bretagne (IMT Atlantique) Laboratory of Medical Information Processing LaTIM UMR1101 INSERM ADCIS",
     "Ecosystem": "1,7",
     "Tool link": "http://www.adcis.net/en/third-party/e-ophtha/",
     "Paper link": "https://www.ncbi.nlm.nih.gov/pubmed/28359545",
@@ -222,7 +204,8 @@ let tools = [
     "Description": "The database is made of retinal images with different types of lesions (exudates and microaneurysms) manually annotated by ophthalmology experts.",
     "short name": "e-ophtha",
     "short description": "The database is made of retinal images with different types of lesions (exudates and microaneurysms) manually annotated by ophthalmology experts.",
-    "wider network": "ANR-TECSAN-TELEOPHTA"
+    "wider network": "ANR-TECSAN-TELEOPHTA",
+    "extra_image": ""
   },
   {
     "map id": 45,
@@ -247,7 +230,8 @@ let tools = [
     "Description": "NLP-PAC, a natural language processing (NLP) algorithm for asthma ascertainment using electronic health records",
     "short name": "NLP-PAC",
     "short description": "NLP-PAC, a natural language processing (NLP) algorithm for asthma ascertainment using electronic health records.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 46,
@@ -272,7 +256,8 @@ let tools = [
     "Description": "MetaMap - A Tool For Recognizing UMLS Concepts in Text. MetaMapMetaMap is a highly configurable program developed by Dr. Alan (Lan) Aronson at the National Library of Medicine (NLM) to map biomedical text to the UMLS Metathesaurus or, equivalently, to discover Metathesaurus concepts referred to in text. MetaMap uses a knowledge-intensive approach based on symbolic, natural-language processing (NLP) and computational-linguistic techniques.",
     "short name": "MetaMap",
     "short description": "MetaMap - A Tool For Recognizing UMLS Concepts in Text.",
-    "wider network": "NIH Indexing Initiative"
+    "wider network": "NIH Indexing Initiative",
+    "extra_image": ""
   },
   {
     "map id": 47,
@@ -297,7 +282,8 @@ let tools = [
     "Description": "CCMapper pulls out the chief complaint (original problem) from Electronic Health Records",
     "short name": "CCMapper",
     "short description": "CCMapper pulls out the chief complaint (original problem) from Electronic Health Records.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 8,
@@ -322,7 +308,8 @@ let tools = [
     "Description": "ACHILLES (Automated Characterization of Health Information at Large-scale Longitudinal Exploration System)â€“ a standardized database profiling tool for database characterization and data quality assessment.",
     "short name": "ACHILLES",
     "short description": "A standardized database profiling tool for database characterization and data quality assessment.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": "R_xEmvRAvOYZbcphL_DataScienceHealthOHDSI1.png"
   },
   {
     "map id": 7,
@@ -347,7 +334,8 @@ let tools = [
     "Description": "ATLAS is an open source application developed as a part of OHDSI intended to provide a unified interface to patient level data and analytics.",
     "short name": "Atlas",
     "short description": "ATLAS is an open source application developed as a part of OHDSI intended to provide a unified interface to patient level data and analytics.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": "R_AgQHAvwLExM1QWJ_Health2-1.png"
   },
   {
     "map id": 10,
@@ -372,7 +360,8 @@ let tools = [
     "Description": "WhiteRabbit is a software tool to help prepare for ETLs (Extraction, Transformation, Loading) of longitudinal healthcare databases into the Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM).",
     "short name": "White Rabbit",
     "short description": "WhiteRabbit is a software tool to help prepare for ETLs (Extraction, Transformation, Loading) of longitudinal healthcare databases into OMOP.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": "R_rfqNFDQR4NFd0o9_Screen Shot 2019-10-21 at 12.04.28.png"
   },
   {
     "map id": 9,
@@ -397,7 +386,8 @@ let tools = [
     "Description": "Usagi is used to help in the process of mapping codes from a source system into the standard terminologies stored in the Observational Medical Outcomes Partnership (OMOP) Vocabulary.",
     "short name": "Usagi",
     "short description": "Usagi is used to help in the process of mapping codes from a source system into the standard terminologies stored in the OMOP Vocabulary.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": "R_86T0UQeCmQfbkmB_usagiscreen1.png"
   },
   {
     "map id": 11,
@@ -422,7 +412,8 @@ let tools = [
     "Description": "PCORnet Common Data Model (CDM). This CDM is intended to support the Patient Centered Outcomes Research Institute (PCORI)'s national network, PCORnet, and thus it is required for participation.",
     "short name": "PCORnet CDM",
     "short description": "PCORnet Common Data Model (CDM). This CDM is intended to support the Patient Centered Outcomes Research Institute national network.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_STrYmZ4aoAFg4A9_Screen Shot 2019-10-21 at 13.06.07.png"
   },
   {
     "map id": 1,
@@ -447,7 +438,8 @@ let tools = [
     "Description": "i2b2 is an open-source clinical data warehousing and analytics platform originally funded by the National Institutes of Health. Data in i2b2 can be queried by a well-honed cohort query tool with numerous analytics plugins that operate from RESTful Web Services.",
     "short name": "I2B2",
     "short description": "Informatics for Integrating Biology and the Bedside or i2b2 is an open-source clinical data warehousing and analytics platform.",
-    "wider network": "i2b2 tranSMART Foundation"
+    "wider network": "i2b2 tranSMART Foundation",
+    "extra_image": "R_1mQaa4c6cyR85Sl_fig1.png"
   },
   {
     "map id": 14,
@@ -472,7 +464,8 @@ let tools = [
     "Description": "PopMedNetâ„¢ is an open-source application used to facilitate multi-site health data networks. It uses a distributed network design that enables data holders to retain full control of their data. Investigators send questions to data holders for review and response. PopMedNet eliminates the need for assembling patient records in a centralized repository, thus preserving patient privacy and confidentiality.",
     "short name": "PopMedNet Query Interface",
     "short description": "PopMedNet is used to facilitate multi-site health data networks. Investigators send questions to data holders for review and response.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1GJEptalluRnVjo_Screen Shot 2019-10-21 at 15.01.40.png"
   },
   {
     "map id": 13,
@@ -497,7 +490,8 @@ let tools = [
     "Description": "The Sentinel CDM smoothly integrates both clinical and billing data.Â It focuses on rapid adverse drug event detection, including supporting development of new methods. It was built by the FDA. The primary goal of the Mini-Sentinel pilot was to build and operate a national public health surveillance system to improve the safety of FDA-regulated medical products, including drugs, biologics, and devices.",
     "short name": "OCTOPUS",
     "short description": "The Sentinel CDM smoothly integrates both clinical and billing data focusing on rapid adverse drug event detection.",
-    "wider network": "Sentinel Operations Center"
+    "wider network": "Sentinel Operations Center",
+    "extra_image": "R_3sabeXJ6R3mp8Zj_Screen Shot 2019-10-22 at 06.10.34.png"
   },
   {
     "map id": 3,
@@ -522,7 +516,8 @@ let tools = [
     "Description": "The Vaccine Safety Datalink (VSD) is a collaborative project between the Centers for Disease Control and Prevention (CDC) and 9 health care organizations. Established in 1990, VSD is a vital resource informing policy makers and the public about the safety of vaccines used in the United States. Large linked databases are used to identify and evaluate adverse events in over 9 million individuals annually. VSD generates rapid, important safety assessments for both routine vaccinations and emergency vaccination campaigns.",
     "short name": "Vaccine Safety Datalink SDN",
     "short description": "The Vaccine Safety Datalink is a vital resource informing about the safety of vaccinesand used to identify adverse events in over 9 million.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2ZE8RuM69RiFRVB_F1.medium (1).jpeg"
   },
   {
     "map id": 2,
@@ -547,7 +542,8 @@ let tools = [
     "Description": "The HCSRN's Virtual Data Warehouse is a pioneering common data model designed to support multi-site health system research. The VDW consists of clinical and claims data mapped to a common format to create tremendous efficiencies for data extraction, collection, and management.",
     "short name": "HCSRN's Virtual Data Warehouse CDM",
     "short description": "The Virtual Data Warehouse is a CDM to support multi-site health system research. It consists of clinical and claims data mapped to a common format.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3O3v3hpcquIuA0n_VDW.Infographic031511.jpg"
   },
   {
     "map id": 4,
@@ -572,7 +568,8 @@ let tools = [
     "Description": "Centers for Medicare and Medicaid Services Virtual Research Data Center (VRDC) allows researchers to access CMS data securely and conveniently. Instead of receiving encrypted hard drives containing CMS data, researchers can use the VRDC to virtually access from their own computers the data that they need for their analysis.",
     "short name": "CMS VRDC",
     "short description": "Centers for Medicare and Medicaid Services Virtual Research Data Center enables researchers to access CMS data virtually from their own computers.",
-    "wider network": "Medicare, Medicaid"
+    "wider network": "Medicare, Medicaid",
+    "extra_image": "R_2rPHogYtSH24sol_slide_7.jpg"
   },
   {
     "map id": 5,
@@ -597,7 +594,8 @@ let tools = [
     "Description": "An open source SAS program to perform partial ETL of CMS data into OHDSI CDM v5 in a manner suitable for use inside the VRDC environment. The use of SAS macros simplified the code and permits the user to easily limit the ETL to specific years or data files as available under his/her DUA.",
     "short name": "CMS VRDC ETL to the OMOP",
     "short description": "An open source SAS program to perform partial ETL of CMS data into OHDSI CDM v5 in a manner suitable for use inside the VRDC environment.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": ""
   },
   {
     "map id": 6,
@@ -622,7 +620,8 @@ let tools = [
     "Description": "The Observational Medical Outcomes Partnership (OMOP) CDM, now in its version 5.0.1, offers a solution unlike any other. OMOP found that disparate coding systems can be harmonizedâ€”with minimal information lossâ€”to a standardized vocabulary.",
     "short name": "ACHILLES",
     "short description": "The Observational Medical Outcomes Partnership (OMOP) harmonizes disparate coding systems with minimal information loss to a standardized vocabulary.",
-    "wider network": "OHDSI"
+    "wider network": "OHDSI",
+    "extra_image": "R_2CNB4PTfgR4fcBe_Screen Shot 2019-10-22 at 08.38.21.png"
   },
   {
     "map id": 16,
@@ -647,7 +646,8 @@ let tools = [
     "Description": "The IPCI (Integrated Primary Care Information) database is located at the Erasmus MC Rotterdam in The Netherlands and is operated by the department of Medical Informatics in close collaboration with the Unit of Pharmaco-epidemiology at EMC.",
     "short name": "IPCI Database",
     "short description": "The Integrated Primary Care Information database is a longitudinal collection of electronic patient’s records from Dutch GPs, hosted in Rotterdam.",
-    "wider network": "EU-ADR Alliance"
+    "wider network": "EU-ADR Alliance",
+    "extra_image": "R_1DppgN1UaaF1pGW_Screen Shot 2019-10-22 at 15.26.16.png"
   },
   {
     "map id": 48,
@@ -672,7 +672,8 @@ let tools = [
     "Description": "Aarhus University Prescription Database collects data on reimbursed medications dispensed at all community pharmacies of the North Denmark Region and the Central Denmark Region. The regions have a combined population of 1.8 million inhabitants, or one-third of the Danish population.",
     "short name": "Aarhus Prescription Database",
     "short description": "Aarhus University Prescription Database collects data on reimbursed medications dispensed at all community pharmacies of North & Central Denmark.",
-    "wider network": "EU-ADR Alliance"
+    "wider network": "EU-ADR Alliance",
+    "extra_image": ""
   },
   {
     "map id": 15,
@@ -697,7 +698,8 @@ let tools = [
     "Description": "SIDIAP was designed to provide a valid and reliable database of selected information from clinical records of patients registered in primary care centres for use in biomedical research. SIDIAP contains data of anonymized patients' healthcare records for nearly six million people (approximately 80% of the Catalan population) registered in 287 primary care practices throughout Catalonia since 2005.",
     "short name": "SIDIAP Database",
     "short description": "SIDIAP contains anonymized clinical records for nearly six million Catalans registered across 287 primary care practices in Catalonia since 2005.",
-    "wider network": "EU-ADR Alliance"
+    "wider network": "EU-ADR Alliance",
+    "extra_image": ""
   },
   {
     "map id": 17,
@@ -722,7 +724,8 @@ let tools = [
     "Description": "The Health Search/Longitudinal Patients Database (HSD) is a longitudinal observational database that is representative of the General Italian population. It was established in 1998 by the Italian College of General Practitioners. The HSD contains data from computer-based patient records from a select group of GPs [covering a total of 1 million active patients; 2.5 million of total patients (i.e. those died or transferred out); 18 million of person-years] located throughout Italy who voluntarily agreed to collect data for the database and attend specified training courses.",
     "short name": "Health Search Database",
     "short description": "The Health Search Database is a longitudinal observational database, est 1998 — representative of the general Italian population.",
-    "wider network": "EU-ADR Alliance"
+    "wider network": "EU-ADR Alliance",
+    "extra_image": "R_WwICGpBq2qImFXz_Screen Shot 2019-10-23 at 06.43.11.png"
   },
   {
     "map id": 24,
@@ -747,7 +750,8 @@ let tools = [
     "Description": "The PEDIANET Paediatric Database was established in Italy in 1998 to collect epidemiological information for clinical research from family paediatricians. The system is based on the transmission of specific data including reason of access, diagnosis, prescriptions, clinical data and outcomes from computerized clinical files, which the paediatricians in the network fill out during their daily professional activities. Data sent to the central server also include text fields which are very useful for data validation. Recently Pedianet has developed the possibility of linking individual patient information with hospitalization and vaccination databases. This opportunity represents a unique tool for conducting pharmacovigilance studies. Informed consent is acquired from the parents. Such data is collected anonymously by a central server in Padova, where it is validated and elaborated. The database is owned by a SME called SocietÃ Servizi Telematici.",
     "short name": "PEDIANET Database",
     "short description": "PEDIANET — est 1998, collects anonymized clinical records from family paediatricians and links them to hospitalization and vaccination databases.",
-    "wider network": "EU-ADR Alliance"
+    "wider network": "EU-ADR Alliance",
+    "extra_image": ""
   },
   {
     "map id": 25,
@@ -772,7 +776,8 @@ let tools = [
     "Description": "CPRD collects fully-coded patient electronic health records from GP Practices using the VisionÂ® or EMISÂ® software systems. Due to some differences in structure and clinical coding in these two systems, these data are provided as two separate primary care databases at present with accompanying metadata and advice to enable researchers to make study-specific decisions on how best to pool these data.",
     "short name": "Clinical Practice Research DL",
     "short description": "CPRD collects fully-coded patient electronic health records (42 million patient lives) from GP Practices using the Vision or EMISA software systems.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2905pY1i4IK3lQs_Screen Shot 2019-10-23 at 07.21.47.png"
   },
   {
     "map id": 26,
@@ -797,7 +802,8 @@ let tools = [
     "Description": "The Health Improvement Network (THIN) is a large database of anonymised electronic medical records collected at Primary Care clinics throughout the UK. Our UK Primary Care database contains anonymised longitudinal patient records for approximately 6% of the UK Population. Our anonymised data collection, which goes back to 1994, is nationally representative of the UK population.",
     "short name": "The Health Improvement Network",
     "short description": "The Health Improvement Network database contains data from over 10 million individuals living in the UK; collected fom GP's using Vision software.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2cd58Ktib64bUxe_Organization-of-data-in-the-THIN-database.png"
   },
   {
     "map id": 27,
@@ -822,7 +828,8 @@ let tools = [
     "Description": "CALIBER is an Electronic Health Record (EHR)-based population-based cohort research platform for Cardio Vascular Diseases. It links and transforms raw data into research ready data-sets. Inputs include data from Clinical Practice Research Datalink (CPRD),Â the Myocardial Ischaemia National Audit Project (MINAP),Â Hospital Episodes Statistics (HES)Â and the Office for National Statistics (ONS) mortalityÂ and social deprivation data.",
     "short name": "CALIBER",
     "short description": "CALIBER is a EHR based population-based cohort research platform for Cardio Vascular Diseases transforming raw data from CPRD, MINAPHES) and ONS data.",
-    "wider network": "Centre for Health service and Academic Partnership in Translational Electronic health records Research (CHAPTER)"
+    "wider network": "Centre for Health service and Academic Partnership in Translational Electronic health records Research (CHAPTER)",
+    "extra_image": "R_2cbyxOGDrPaF1lL_m_dys188f2p.gif"
   },
   {
     "map id": 33,
@@ -847,7 +854,8 @@ let tools = [
     "Description": "The HIC Research Data Management Platform (RDMP) is an open source tool to load, manage, clean, and curate longitudinal healthcare data for research and provide reproducible and updateable datasets for defined cohorts to researchers. HIC also hosts a range of linkable routinely-collected, person-based administrative datasets combining datasets for the Tayside and Fife population and Tayside, with local speciality research, and clinical datasets.â€Œâ€Œ",
     "short name": "RDMP Health Informatics Centre",
     "short description": "The HIC Research Data Management Platform is an open source tool to load, manage, clean, and curate longitudinal and updateable healthcare datasets.",
-    "wider network": "e-Health Informatics Research Centres and Network"
+    "wider network": "e-Health Informatics Research Centres and Network",
+    "extra_image": "R_3PHv0Bonf9Im6U4_m_giy060fig2.jpeg"
   },
   {
     "map id": 34,
@@ -872,7 +880,8 @@ let tools = [
     "Description": "eLab is a platform for merging data together which has been collected by different groups at different times. eLab is using an acknowledged key interoperability structure to store the data, HL7's standard; FIHR (Fast Healthcare Interoperability Resources).",
     "short name": "elab HERC Manchester",
     "short description": "eLab is a platform for merging data together which has been collected by different groups using an acknowledged key interoperability structure, FIHR.",
-    "wider network": "The Farr Institute of Health Informatics Research"
+    "wider network": "The Farr Institute of Health Informatics Research",
+    "extra_image": "R_4MCTwvez49Bi4tH_Screen Shot 2019-10-23 at 14.26.40.png"
   },
   {
     "map id": 22,
@@ -897,7 +906,8 @@ let tools = [
     "Description": "The Jerboa software is developed at the Department of Medical Informatics to enable pharmaco-epidemiological studies in a so-called distributive network design, i.e. it runs de-identification, analysis and aggregation locally at each database site. This has the advantage that the local analyses are performed in a common way and are not subject to small differences in implementation by local statisticians.",
     "short name": "Jerboa",
     "short description": "The Jerboa runs de-identification, analysis and aggregation locally at each database site. This ensures local analyses are performed in a common way.",
-    "wider network": "EMIF, EU-ADR Alliance"
+    "wider network": "EMIF, EU-ADR Alliance",
+    "extra_image": "R_p6mCov6Oo2tGImt_Screen Shot 2019-10-23 at 14.45.01.png"
   },
   {
     "map id": 20,
@@ -922,7 +932,8 @@ let tools = [
     "Description": "Taska is a workflow management system where users can create workflow templates which can be reused by distinct groups and for different purposes.This system was developed in the context of EMIF (http://www.emif.eu), an European project that aims to create a common technical and governance framework to facilitate the reuse of health data.",
     "short name": "TASKA",
     "short description": "A workflow management system for creating workflow templates which can be reused by distinct groups and for different purposes for use with EMIF.",
-    "wider network": "EMIF"
+    "wider network": "EMIF",
+    "extra_image": "R_3MQDQLvTEcT5uM8_pt-TASKA.png"
   },
   {
     "map id": 21,
@@ -947,7 +958,8 @@ let tools = [
     "Description": "The OCTOPUS infrastructure is used as a prototype for the private remote research environment (PRRE) in WP12. It allows for secured file transfer from and to the data custodians and can be used to collaborate on the aggregated data generated by Jerboa Reloaded.",
     "short name": "OCTOPUS",
     "short description": "The OCTOPUS infrastructure is used for the private remote research environment for secured file transfer of aggregated data generated by Jerboa.",
-    "wider network": "EMIF"
+    "wider network": "EMIF",
+    "extra_image": "R_1Nst42qrMlhhWo6_joim12159-fig-0003-m.png"
   },
   {
     "map id": 49,
@@ -972,7 +984,8 @@ let tools = [
     "Description": "EMIF Catalogue allows users to explore population-based (e.g. Electronic Health Record (EHR)-derived, Regional databases, etc.) and cohort-derived (predominately within Alzheimer's Disease) data sources who have consented to provide such information for the purposes of bona fide researchers wanting to explore potential data partners for studies.",
     "short name": "EMIF Catalogue",
     "short description": "EMIF Catalogue allows researchers to explore data sources wanting to explore potential data partners for studies.",
-    "wider network": "EMIF"
+    "wider network": "EMIF",
+    "extra_image": "R_ANGNnrCoGclF853_Screen Shot 2019-10-23 at 15.30.27.png"
   },
   {
     "map id": 35,
@@ -997,7 +1010,8 @@ let tools = [
     "Description": "An extended version of a widely used National Health Service (NHS) algorithm for detecting AKI in blood tests,26 which flags individual â€˜AKI' blood tests and also applies phenotyping methods to combine AKI-flagged blood tests into clinically meaningful AKI illness episodes grouped by severity, duration, recovery and recurrence",
     "short name": "Acute Kidney Injury P'typing",
     "short description": "An algorithm for detecting AKI in blood tests. It applies phenotyping to combine flagged blood tests into clinically meaningful illness episodes.",
-    "wider network": "Farr Institute of Health Informatics Research Centres"
+    "wider network": "Farr Institute of Health Informatics Research Centres",
+    "extra_image": "R_2D2nu2gaItXsbHT_bmjopen-2017-019435f01.jpg"
   },
   {
     "map id": 31,
@@ -1022,7 +1036,8 @@ let tools = [
     "Description": "Safe share works by creating encrypted tunnels over existing networking infrastructure, for example over Jisc's Janet Network or the internet.A pilot project enabling the secure exchange of data collected by UK Government and the NHS using an encrypted overlay over the Janet network to facilitate appropriate analysis between project sites",
     "short name": "JISC SafeShare project",
     "short description": "Safe share works by creating encrypted tunnels over existing networking infrastructure, such as  JISC's Janet Network.",
-    "wider network": "Farr Institute"
+    "wider network": "Farr Institute",
+    "extra_image": "R_2ZQXLZfBFwoBJ9b_safeshare-diagram.png"
   },
   {
     "map id": 30,
@@ -1047,7 +1062,8 @@ let tools = [
     "Description": "UKSeRP is a high powered, safe and secure e-research platform. It allows data owners and researchers to store, access, share, analyse and link data at scale in a governed environment whilst maintaining full control of the data at all times",
     "short name": "UK Secure eResearch Platform",
     "short description": "UKSeRP is a high powered e-research platform. It allows data owners and researchers to store, access, share, analyse and link data at scale.",
-    "wider network": "Farr Institute"
+    "wider network": "Farr Institute",
+    "extra_image": "R_3qUthwI6dF5482G_Screen Shot 2019-10-24 at 07.48.13.png"
   },
   {
     "map id": 29,
@@ -1072,32 +1088,8 @@ let tools = [
     "Description": "SAIL Databank is an anonymised databank and does not receive or handle identifiable data. Organisations who provide data to SAIL Databank do so via the NHS Wales Informatics Service (NWIS), which acts as our Trusted Third Party (TTP) for anonymisation and encryption.NWIS replaces the commonly-recognised identifiable items (including name, address and date of birth) for each person with an encrypted code and sends this, along with minimal information (on gender, area of residence and week of birth) to SAIL.By using an encrypted code that is unique to each person represented in the datasets, data can be anonymously linked together and used for research whilst safeguarding individual privacy.",
     "short name": "SAIL Data Bank",
     "short description": "SAIL Databank collects anonymised information via NHS Wales Informatics Service which acts as a Trusted Third Party for anonymisation and encryption.",
-    "wider network": ""
-  },
-  {
-    "map id": "",
-    "Tool Name": "Survey 2!",
-    "Open source": 3,
-    "Community size": 4,
-    "Databank size": 0,
-    "Community Age in years": 2020,
-    "Years since last update capped at 5 (max = 5 )": 5,
-    "Part of wider software community (max = 1)": 0,
-    "Wide spread usage (max = 3)": 0,
-    "online training": 0,
-    "face to face": 0,
-    "Data types": "",
-    "Medical Area": "",
-    "Tool purpose": "",
-    "Partners": "",
-    "Ecosystem": "#N/A",
-    "Tool link": "",
-    "Paper link": "",
-    "Contact": "",
-    "Description": "",
-    "short name": "#N/A",
-    "short description": "#N/A",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1gznyDfjkIlfU62_Screen Shot 2019-10-24 at 08.04.18.png"
   },
   {
     "map id": 100,
@@ -1122,7 +1114,8 @@ let tools = [
     "Description": "MRC eMedLab is a computational resource for collaborative medical informatics, using private cloud technology to enable the sharing and collaborative analysis of large datasets. The service provides 6000 cores of compute and 6PB of storage, based on the OpenStack and IBM GPFS platforms.",
     "short name": "EMedlab",
     "short description": "MRC eMedLab is a computational resource using private cloud technology, based on the OpenStack and IBM GPFS platforms (6000 cores and 6PB of storage).",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1DNfUIbnzJazvoS_emedlab-overview.png"
   },
   {
     "map id": 101,
@@ -1147,7 +1140,8 @@ let tools = [
     "Description": "CogStack is a lightweight distributed, fault tolerant database processing architecture and ecosystem, intended to make NLP processing and preprocessing easier in resource constrained environments. It comprises of multiple components, where CogStack Pipeline, the one covered in this documentation, has been designed to provide a configurable data processing pipelines for working with EHR data.",
     "short name": "CogStack Pipeline",
     "short description": "A distributed, fault tolerant database processing architecture and ecosystem, to make NLP processing easier in resource constrained environments.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2f1mV1cAFcRVXJJ_SystemArch.png"
   },
   {
     "map id": 102,
@@ -1172,7 +1166,8 @@ let tools = [
     "Description": "MedCATTrainer: A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation",
     "short name": "MedCATTrainer",
     "short description": "MedCATTrainer: A Biomedical Free Text Annotation Interface with Active Learning and Research Use Case Specific Customisation.",
-    "wider network": "CogStack"
+    "wider network": "CogStack",
+    "extra_image": "R_2abpIQYANV9vUrc_Screen Shot 2019-10-24 at 11.38.30.png"
   },
   {
     "map id": 103,
@@ -1197,7 +1192,8 @@ let tools = [
     "Description": "PIER is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes. The underlying framework of PIER uses Elasticsearch technology and features the University of Minnesota Clinical NLP/IE program's open source Natural Language Processing (NLP) application, BioMedICUS (BioMedical Information Collection and Understanding System).",
     "short name": "NLP-PIER",
     "short description": "PIER is an Information Extraction (IE) platform that provides direct access to patient data stored in free text of clinical notes.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2QnXCET3rsABKFA_download (7).jpeg"
   },
   {
     "map id": 104,
@@ -1222,7 +1218,8 @@ let tools = [
     "Description": "Cognition is an open source database processing pipeline. Its purpose is to convert common binary documents such as PDF and Word documents in a relational database into a common representation such as XHTML, and optionally modify them in a customisable manner (For example, applying pseudonymisation/anonymisation algorithms on them)",
     "short name": "Cognition",
     "short description": "A database processing pipeline to convert documents (PDFs and Word) to a common representation such as XHTML for applying anonymisation.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_Q0nvmvOdj0dpDXP_cognition-summary.png"
   },
   {
     "map id": 105,
@@ -1247,7 +1244,8 @@ let tools = [
     "Description": "TextHunter is an NLP information extraction suite. It is built around the ConText algorithm31 and the GATE framework Batch Learning plugin, a machine learning framework which in turn uses the LibSVM java library.32",
     "short name": "TextHunter",
     "short description": "TextHunter is an NLP information extraction suite.",
-    "wider network": "Clinical Record Interactive Search Comprehensive Data Extraction (CRIS-CODE) project"
+    "wider network": "Clinical Record Interactive Search Comprehensive Data Extraction (CRIS-CODE) project",
+    "extra_image": ""
   },
   {
     "map id": 106,
@@ -1272,7 +1270,8 @@ let tools = [
     "Description": "We developed phenotyping algorithms and codelists for physical and mental health conditions that involve intensive use of health-care resources.",
     "short name": "Chronological Disease Algorithms",
     "short description": "Phenotyping algorithms and codelists for physical and mental health conditions that involve intensive use of health-care resources.",
-    "wider network": "CALIBER"
+    "wider network": "CALIBER",
+    "extra_image": "R_3lDo5DUwYDkAk7C_1-s2.0-S2589750019300123-gr1a.jpg"
   },
   {
     "map id": 107,
@@ -1297,7 +1296,8 @@ let tools = [
     "Description": "Our live, up-to-date pathology monitoring tool will show clinicians and policy-makers how recent testing rates and performance on specific measures of pathology test appropriateness compare with other practices. This will highlight areas requiring further investigation to improve patient care. It will also give live data on overall trends in test use over time for policymakers, commissioners and researchers.",
     "short name": "OpenPathology",
     "short description": "A live pathology monitoring tool for GP's - allowing them to compare thier testing rates and test appropriateness ratings against other practices.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2B8txPr7KhxDR2m_4-Figure3-1.png"
   },
   {
     "map id": 108,
@@ -1322,7 +1322,8 @@ let tools = [
     "Description": "Every month, the NHS in England publishes anonymised data about the drugs prescribed by GPs. But the raw data files are large and unwieldy, with more than 700 million rows. We're making it easier for GPs, managers and everyone to explore - supporting safer, more efficient prescribing.",
     "short name": "OpenPrescribing",
     "short description": "NHS England publishes anonymised data about the drugs prescribed by GPs. This tool visualizes this data for exploration by GP's.",
-    "wider network": "NHS Digital - Practice Level Prescribing in England"
+    "wider network": "NHS Digital - Practice Level Prescribing in England",
+    "extra_image": "R_YYxKxpgO7DIO4y5_pcn-flowchart.a64d70c07660.png"
   },
   {
     "map id": 109,
@@ -1347,7 +1348,8 @@ let tools = [
     "Description": "The BREATHE hub will unite over 100 respiratory datasets, creating a digital resource where trained, approved experts can access respiratory data on an unprecedented scale and transform respiratory health for people across the UK.",
     "short name": "BREATHE - Respiratory Health",
     "short description": "The BREATHE hub will unite over 100 respiratory datasets, creating a digital resource where trained, approved experts can access respiratory data.",
-    "wider network": "HDRUK Health Data Research Hubs"
+    "wider network": "HDRUK Health Data Research Hubs",
+    "extra_image": "R_29nUhrorOim1z7i_maxresdefault (2).jpg"
   },
   {
     "map id": 110,
@@ -1372,7 +1374,8 @@ let tools = [
     "Description": "Through safe and secure curation of patient information, Discover-NOW will provide leading clinicians, researchers and scientists with access to de-identified linked patient information at scale in near to real time. This will enable them to look prospectively to identify new patterns in disease thus helping us to better manage many conditions and, in some cases, prevent them happening in the first place.",
     "short name": "Discover-NOW - RWE",
     "short description": "Discover-NOW will provide access to de-identified linked patient data at scale in near to real time - to prospectively find new patterns in disease.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_A6AeYlIev4CI4Fz_maxresdefault (2).jpg"
   },
   {
     "map id": 111,
@@ -1397,7 +1400,8 @@ let tools = [
     "Description": "The Centre will use data to address the urgent need to better understand why patients with Crohn's Disease and Ulcerative Colitis respond differently to treatments in order to improve people's outcomes and reduce costs in the NHS.",
     "short name": "G.I. Know - IB Disease",
     "short description": "The Centre will use data to better understand why patients with Crohn's Disease and Ulcerative Colitis respond differently to treatments.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_SNpfngjOKqRHd3X_maxresdefault (2).jpg"
   },
   {
     "map id": 112,
@@ -1422,7 +1426,8 @@ let tools = [
     "Description": "INSIGHT is focused on eye disease and its application to wider health, including diabetes and dementia. It will use anonymised large-scale data and advanced analytics, including artificial intelligence, to develop new insights in disease detection, diagnosis, treatments and personalised healthcare.",
     "short name": "INSIGHT - Eye Health",
     "short description": "INSIGHT will use anonymised large-scale data and analytics to understand eye disease and the links to wider health, including diabetes and dementia.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_2wKO6BgysV6ifBr_maxresdefault (2).jpg"
   },
   {
     "map id": 113,
@@ -1447,7 +1452,8 @@ let tools = [
     "Description": "NHSDigiTrial will unite a vast wealth of clinical trail data to provide new opportunities for identifying and recruiting patients for research, accelerate the clinical trials process and lower the cost of developing new treatments.",
     "short name": "NHS DigiTrial",
     "short description": "NHSDigiTrial will unite clinical trail data to provide new ways for identifying and recruiting patients & improving the clinical trials process.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_3NDk2r2cnFmpXaq_maxresdefault (2).jpg"
   },
   {
     "map id": 114,
@@ -1472,7 +1478,8 @@ let tools = [
     "Description": "The PIONEER Hub will collect, connect and curate health data when adults and children become acutely unwell from community health teams, the ambulance service and hospitals across Birmingham as well as acute care data from >150 NHS hospitals and sudden deaths in the community across the UK. The PIONEER Hub will allow innovative healthcare companies to develop, test and deliver new ways of caring for acutely unwell people, in partnership with NHS service providers and health researchers.",
     "short name": "Pioneer - Acute Care",
     "short description": "The PIONEER Hub will curate health data from acutely unwell adults and children from community health teams and hospitals across Birmingham.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_1eRHxK8GTp5zjxc_maxresdefault (2).jpg"
   },
   {
     "map id": 115,
@@ -1497,7 +1504,8 @@ let tools = [
     "Description": "DATA-CAN â€“ The Health Data Research Hub for Cancer â€“ will work with patients across the UK to bring their clinical data together and use this data to help develop improved cancer treatments, give patients faster access to clinical trials, and understand how we can improve NHS cancer services. The Hub will be supported by patients, charities, clinicians, academic and industry-based researchers and innovators, and will involve cancer hospitals across the UK.",
     "short name": "Data-Can - Cancer",
     "short description": "The Health Data Research Hub for Cancer will work with patients to collate their clinical data and use this data to help improve cancer treatments.",
-    "wider network": "UK Health Data Research Alliance"
+    "wider network": "UK Health Data Research Alliance",
+    "extra_image": "R_3KvzNCHBZs4qm3q_maxresdefault (2).jpg"
   },
   {
     "map id": 116,
@@ -1522,7 +1530,8 @@ let tools = [
     "Description": "MIMIC-III (â€˜Medical Information Mart for Intensive Care') is a large, single-center database comprising information relating to patients admitted to critical care units at a large tertiary care hospital. Data includes vital signs, medications, laboratory measurements, observations and notes charted by care providers, fluid balance, procedure codes, diagnostic codes, imaging reports, hospital length of stay, survival data, and more.",
     "short name": "MIMIC III/IV",
     "short description": "Medical Information Mart for Intensive Care is a database containing information from patients at the critical care unit of a tertiary care hospital.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": "R_1cZdYHRd2Oogdpw_Joins-across-a-multitude-of-datasets-from-PhysioNet-MIMIC-III.png"
   },
   {
     "map id": 117,
@@ -1547,7 +1556,8 @@ let tools = [
     "Description": "QueryBuilder is a web-based tool that provides easy access to MIMIC-II. For more computationally intensive queries, one can locally install a complete copy of MIMIC-II in a VM. Both publicly available tools provide the MIMIC-II research community with convenient querying interfaces and complement the value of the MIMIC-II relational database.",
     "short name": "MIMIC Query Builder v1.2",
     "short description": "QueryBuilder is a web-based tool that provides easy access to MIMIC-II. A local copy is also available.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": "R_3q9Z2oebQNKIXmY_Screen Shot 2019-10-25 at 09.20.06.png"
   },
   {
     "map id": 118,
@@ -1572,7 +1582,8 @@ let tools = [
     "Description": "A large and growing library of software (\"PhysioToolkit\") for physiologic signal processing and analysis, detection of physiologically significant events using both classical techniques and novel methods based on statistical physics and nonlinear dynamics, interactive display and characterization of signals, creation of new databases, simulation of physiologic and other signals, quantitative evaluation and comparison of analysis methods, and analysis of nonequilibrium and nonstationary processes.",
     "short name": "PhysioToolKit",
     "short description": "A large and growing library of software for physiologic signal processing and analysis anddetection of physiologically significant events.",
-    "wider network": "PhyisoNet"
+    "wider network": "PhyisoNet",
+    "extra_image": ""
   },
   {
     "map id": 119,
@@ -1597,7 +1608,8 @@ let tools = [
     "Description": "The electrocardiogram kit (ecg-kit) for Matlab is an open-source application-programming interface (API) that provides an abstraction level for accessing and processing cardiovascular signals. It is a collection of several commonly used tools, such as those algorithms included in Physionet's WFDB software package [1], QRS detectors, wavedet ECG delineator, pulse wave detectors, heartbeat classifiers and other new tools for inspecting, correcting and reporting these results.",
     "short name": "ECG-kit",
     "short description": "The electrocardiogram kit (ecg-kit) for Matlab is an open-source library that provides tools for for accessing and processing cardiovascular signals.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": "R_336Wj7s4FeJ5YEV_schematic2 (1).jpg"
   },
   {
     "map id": 120,
@@ -1622,7 +1634,8 @@ let tools = [
     "Description": "The deid software package includes code and dictionaries for automated location and removal of protected health information (PHI) in free text from medical records. The gold-standard corpus is a collection of deidentified nursing notes that have been reidentified with realistic surrogate data, for use in developing and evaluating software such as deid.",
     "short name": "deid PhysioNet",
     "short description": "Deid provides code and dictionaries for automated removal of protected health information (PHI) in free text from medical records.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": ""
   },
   {
     "map id": 121,
@@ -1647,7 +1660,8 @@ let tools = [
     "Description": "Engauge Digitizer is an open-source tool for extracting XY data from images (for example, recovering ECGs from paper strips). The software can run on any platform supported by the QT toolkit, including GNU/Linux, Mac OS X, MS-Windows (with limitations on supported image formats), and all versions of Unix.",
     "short name": "Engauge-Digitizer",
     "short description": "Engauge Digitizer is an open-source tool for extracting XY data from images (for example, recovering ECGs from paper strips).",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3fHsAJq5lCMZyYI_ProcessFlowchart.png"
   },
   {
     "map id": 122,
@@ -1672,7 +1686,8 @@ let tools = [
     "Description": "This package, written by Pat Hamilton, includes an excellent single-lead QRS detector (an improved version of the Pan-Tompkins detector) and a single-lead beat classifier. The code is written in C and uses the WFDB library to read data and write annotations in PhysioBank format.",
     "short name": "OS ECG Analysis Software",
     "short description": "This package includes an excellent single-lead QRS detector (an improved version of the Pan-Tompkins detector) and a single-lead beat classifier.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_33CPX1bKScmuKzl_Screen Shot 2019-10-28 at 07.06.51.png"
   },
   {
     "map id": 123,
@@ -1697,7 +1712,8 @@ let tools = [
     "Description": "LastWave is a signal processing oriented command language. Several other packages have already been added to LastWave allowing high-level signal processing such as wavelet transforms (1D and 2D), extrema representations of wavelet transforms (1D and 2D), fractal analysis, matching pursuit, compression.",
     "short name": "LastWave",
     "short description": "LastWave is a signal processing oriented command language.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2Yth6o4eW2NkF53_help1.gif"
   },
   {
     "map id": 124,
@@ -1722,7 +1738,8 @@ let tools = [
     "Description": "Spike-wave seizure detection and characterization tool to discriminate morphological subtypes.",
     "short name": "SWDreader",
     "short description": "Spike-wave seizure detection and characterization tool to discriminate morphological subtypes.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_9v3wu63tDxKCO7n_Screen Shot 2019-10-28 at 07.32.18.png"
   },
   {
     "map id": 125,
@@ -1747,7 +1764,8 @@ let tools = [
     "Description": "OSET is a collection of electrophysiological data and open source codes for biological signal generation, modeling, processing, and filtering, originally released in June 2006. The toolbox is distributed under the GNU General Public License and may be freely used or modified under the specified terms of use. The source codes have been mainly developed in Matlab and partially in C++; but contributions in other languages are welcome. Please feel free to contact us in case of any comments or questions.",
     "short name": "Electrophysiological Toolbox",
     "short description": "OSET is a collection of electrophysiological data and open source codes for biological signal generation, modeling, processing, and filtering.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 126,
@@ -1772,7 +1790,8 @@ let tools = [
     "Description": "A freeware heart rate variability analysis software for non-commercial personal use:  Supports RR data from HR monitors (Polar, Suunto, Garmin) Computes all commonly used time- and frequency-domain as well as several nonlinear HRV parameters Analysis results can be exported in CSV and PDF format",
     "short name": "Kubios HRV",
     "short description": "A freeware heart rate variability analysis software for non-commercial personal use:  Supports RR data from HR monitors (Polar, Suunto, Garmin).",
-    "wider network": "Kubios HRV"
+    "wider network": "Kubios HRV",
+    "extra_image": "R_1F9DsukoMHAYcQg_Screen Shot 2019-10-28 at 07.57.32.png"
   },
   {
     "map id": 127,
@@ -1797,7 +1816,8 @@ let tools = [
     "Description": "Open-source Python software for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, and more.",
     "short name": "MNE",
     "short description": "Open-source Python software for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, and more.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2E0kLTNWhrCs61X_1-s2.0-S1053811913010501-fx1_lrg.jpg"
   },
   {
     "map id": 128,
@@ -1822,7 +1842,8 @@ let tools = [
     "Description": "EEGLAB is an interactive Matlab toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data incorporating independent component analysis (ICA), time/frequency analysis, artifact rejection, event-related statistics, and several useful modes of visualization of the averaged and single-trial data. EEGLAB runs under Linux, Unix, Windows, and Mac OS X.",
     "short name": "EEGLab",
     "short description": "EEGLAB is an interactive Matlab toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data.",
-    "wider network": "SCCN Toolboxes"
+    "wider network": "SCCN Toolboxes",
+    "extra_image": "R_10oM0G6Q1jl3tNI_400px-Eeglab_small.jpg"
   },
   {
     "map id": 129,
@@ -1847,7 +1868,8 @@ let tools = [
     "Description": "Cartool is the EEG analysis software developped at the Functional Brain Mapping Lab (FBMLab), in Geneva, Switzerland. This project was initiated in 1996, and is still actively developped up to these days. It has been entirely programmed by Denis Brunet in C++, and doesn't rely on any other dependency to run.",
     "short name": "Cartool",
     "short description": "Cartool is the EEG analysis software developped at the Functional Brain Mapping Lab (FBMLab), in Geneva, Switzerland.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 130,
@@ -1872,7 +1894,8 @@ let tools = [
     "Description": "DARTNet is a federated network of electronic health record data and other clinical information from multiple organizations across the United States. A federated network is a collection of databases that reside in multiple member practices and that are linked through a secure Web-based system so they can be searched and queried as one large database while maintaining privacy and confidentiality of patient data.",
     "short name": "DARTNet",
     "short description": "DARTNet is a federated network of electronic health record data and other clinical information from multiple organizations across the United States.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 131,
@@ -1897,7 +1920,8 @@ let tools = [
     "Description": "ImproveCareNow Network registry, which as of September 2019 contained data from 314,250 visits of 43,305 pediatric Inflammatory Bowel Disease (IBD) patients at 109 participating care centers.",
     "short name": "ImproveCareNow Network",
     "short description": "ImproveCareNow Network registry, contains data from 314,250 visits of 43,305 pediatric Inflammatory Bowel Disease (IBD) patients at 109 care centers.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 132,
@@ -1922,7 +1946,8 @@ let tools = [
     "Description": "SHRINE (Shared Health Research Information Network) is a platform for enabling clinical researchers to solve the problem of identifying sufficient numbers of patients to include in their studies by querying across distributed hospital electronic medical record systems.",
     "short name": "Shrine",
     "short description": "SHRINE enables researchers to identifying sufficient numbers of patients to include in their studies by querying across distributed hospital EHRs.",
-    "wider network": "I2B2"
+    "wider network": "I2B2",
+    "extra_image": ""
   },
   {
     "map id": 133,
@@ -1947,7 +1972,8 @@ let tools = [
     "Description": "InSite is an innovative platform that enables the trustworthy re-use of Electronic Health Records (EHR) data for research. InSite facilitates the collaboration between clinicians and researchers and aims to maximise the output of clinical research through new technology.  InSite is supported by a community of clinical sites that want to maximise their involvement in clinical research with academic and industry research organisations.",
     "short name": "Insite Platform",
     "short description": "InSite is an innovative platform that enables the trustworthy re-use of Electronic Health Records (EHR) data for research.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 134,
@@ -1972,7 +1998,8 @@ let tools = [
     "Description": "We aim at solving a binary supervised classification problem to predict hospitalizations for cardiac events using a distributed algorithm. We seek to develop a general decentralized optimization framework enabling multiple data holders to collaborate and converge to a common predictive model, without explicitly exchanging raw data.",
     "short name": "cPDS Algorithm",
     "short description": "An approach to solving a binary supervised classification problem to predict hospitalizations for cardiac events using a distributed algorithm.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 135,
@@ -1997,7 +2024,8 @@ let tools = [
     "Description": "privacy-preserving platform in a federated setting for patient similarity learning across institutions. Without sharing patient-level information, our model can find similar patients from one hospital to another.",
     "short name": "Patient Similarity",
     "short description": "Platform for patient similarity learning across institutions Without sharing patient-level information.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 136,
@@ -2022,7 +2050,8 @@ let tools = [
     "Description": "We simulate the distribution of deep learning models across 4 institutions using various training heuristics and compare the results with a deep learning model trained on centrally hosted patient data. The training heuristics investigated include ensembling single institution models, single weight transfer, and cyclical weight transfer. We evaluated these approaches for image classification in 3 independent image collections (retinal fundus photos, mammography, and ImageNet).",
     "short name": "Distributed Deep Learning Networks",
     "short description": "We simulate the distribution of deep learning models across 4 institutions and compare the results with centrally hosted patient data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 137,
@@ -2047,7 +2076,8 @@ let tools = [
     "Description": "SMITH implements a federated approach as well for its governance structure as for its information system architecture. SMITH has designed a generic concept for its data integration centers. They share identical services and functionalities to take best advantage of the interoperability architectures and of the data use and access process planned.",
     "short name": "SMITH",
     "short description": "SMITH implements a federated approach as well for its governance structure as for its information system architecture.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 138,
@@ -2072,7 +2102,8 @@ let tools = [
     "Description": "HiGHmed is working on novel, interoperable solutions in medical informatics with the aim to make medical patient data accessible for clinical research and education which will, in turn, improve patient care. Building safe data integration centres, the project aims to establish a technology platform enabling clinicians to take data-based and patient-centric decisions.",
     "short name": "HiGHmed",
     "short description": "HiGHmed is working  interoperable solutions in medical informatics to make medical patient data accessible for clinical research and education.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 139,
@@ -2097,7 +2128,8 @@ let tools = [
     "Description": "The Electronic Medical Records and Genomics (eMERGE) Network is a National Human Genome Research Institute (NHGRI)-funded consortium tasked with developing methods and best practices for utilization of the electronic medical record (EMR) as a tool for genomic research. Now in its third funding cycle, eMERGE has made a significant impact on the medical health profession. Ultimately, eMERGE hopes its efforts will result in improvements in health care, through safer and more effective prescription methodology, augmentation of primary and secondary prevention strategies, and enhanced understanding of the biology of disease.",
     "short name": "eMERGE",
     "short description": "The Electronic Medical Records and Genomics (eMERGE) Network is developing methods and best practices for utilization of EHRs for genomic research.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 140,
@@ -2122,7 +2154,8 @@ let tools = [
     "Description": "This network is a federation of Health Big Data Warehouses dedicated to clinical research regrouping CHU Rennes, CHU Brest , CHU Nantes, CHU poitiers, CHU Angers. The network develop tools and services dedicated to clinical data reuse especially for clinical research and epidemiology.  It is the first Clinical Data Research Network in terms of populations and geographical area and represent a great opportunity to test clinical big data processing for the DMC topics. The network is lead by Pr Marc CUGGIA (CHU de Rennes) and Pr Eric Stindel (CHU de Brest).",
     "short name": "French Western Clinical Data Center Network",
     "short description": "A federation of Health Big Data Warehouses, the network develop tools and services dedicated to clinical data reuse for research and epidemiology.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 141,
@@ -2147,7 +2180,8 @@ let tools = [
     "Description": "The Health Data Hub will be composed of 18 databases from SNDS data to laboratory testing data.  All these databases will be filled with patient data; supplied all along patient journey, in complete transparency and respect of data protection.",
     "short name": "French Health Data Hub",
     "short description": "The Health Data Hub will be composed of 18 databases from SNDS data to laboratory testing data.  The data will be supplied all along patient journey.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3OdlRL2Q40PK39f_Health-data-hub-Img.2.png"
   },
   {
     "map id": 142,
@@ -2172,7 +2206,8 @@ let tools = [
     "Description": "The Swiss Personalized Health Network (SPHN) is a national initiative designed to promote the development of personalized medicine and personalized health in Switzerland.     The ultimate goal is to promote health and well-being, to prevent, diagnose and treat unfavourable health conditions more precisely, thus reducing the risk of developing such conditions and permitting more effective treatments of disease states with fewer adverse effects.     SPHN will lay the foundations that are needed to facilitate research projects in this area such as a system for a nationwide exchange of health-related data.",
     "short name": "Swiss Personalized Health Network (SPHN)",
     "short description": "The Swiss Personalized Health Network (SPHN) is a national initiative designed to promote the development of personalized medicine.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_32Q3ZOPVnpAfJSM_Screen Shot 2019-10-31 at 12.25.48.png"
   },
   {
     "map id": 143,
@@ -2197,7 +2232,8 @@ let tools = [
     "Description": "The Indiana Network for Patient Care (INPC) is a unique federated EHR data repository that contains data collected from a large population across various health care settings throughout the state of Indiana",
     "short name": "Indiana Network for Patient Care",
     "short description": "The Indiana Network for Patient Care (INPC) is a federated EHR data repository containing data collected across various health care settings.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 144,
@@ -2222,7 +2258,8 @@ let tools = [
     "Description": "We propose a new method, called Federated-Autonomous Deep Learning (FADL) that trains part of the model using all data sources in a distributed manner and other parts using data from specific data sources. We observed that FADL outperforms traditional federated learning strategy and conclude that balance between global and local training is an important factor to consider when design distributed machine learning methods , especially in healthcare",
     "short name": "Federated-Autonomous Deep Learning (FADL)",
     "short description": "An algorithm called Federated-Autonomous Deep Learning (FADL) that trains part of the model using all data sources in a distributed manner.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2vYXopFPz76j7bY_Screen Shot 2019-10-31 at 12.54.44.png"
   },
   {
     "map id": 145,
@@ -2247,7 +2284,8 @@ let tools = [
     "Description": "ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.",
     "short name": "Insight Toolkit (ITK)",
     "short description": "ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_1kOCkrje97O4FqJ_Screen Shot 2019-10-31 at 11.32.06.png"
   },
   {
     "map id": 146,
@@ -2272,7 +2310,8 @@ let tools = [
     "Description": "The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data. It comes with state-of-the-art tools for 3D rendering, a suite of widgets for 3D interaction, and extensive 2D plotting capability.",
     "short name": "Visualization Toolkit (VTK)",
     "short description": "The Visualization Toolkit (VTK) is open source software for manipulating and displaying scientific data.",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_3qaMGNTqGuJ4F6C_A-typical-visualization-pipeline-in-VTK.png"
   },
   {
     "map id": 147,
@@ -2297,7 +2336,8 @@ let tools = [
     "Description": "3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization.",
     "short name": "3D Slicer",
     "short description": "3D Slicer is an open source software platform for medical image informatics, image processing, and three-dimensional visualization.",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_ZwtwUy8PLydvQbf_Screen Shot 2019-10-31 at 12.00.00.png"
   },
   {
     "map id": 148,
@@ -2322,7 +2362,8 @@ let tools = [
     "Description": "The interactive Medical Simulation Toolkit (iMSTK) is designed to support the rapid prototyping of virtual medical trainers and planners. It enables end-to-end application development by offering components for medical simulators such as physics-based simulation, haptic feedback, collision detection and response, external tracking and virtual reality support, and real-time rendering and visualization techniques.",
     "short name": "interactive Medical Simulation Toolkit",
     "short description": "The interactive Medical Simulation Toolkit (iMSTK) is designed to support the rapid prototyping of virtual medical trainers and planners.",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_1mEmjGd9ysml077_iMSTK-Data-Flow-Compact-new-1.png"
   },
   {
     "map id": 149,
@@ -2347,7 +2388,8 @@ let tools = [
     "Description": "The Pulse Physiology Platform is an open-source software application designed to enable accurate and consistent, real-time physiologic simulations for improved medical training and clinical decision-making tools. The platform includes a physiology engine comprised of well-validated lumped-parameter models, differential equations representing feedback mechanisms, and a pharmacokinetic/pharmacodynamic model. The platform also includes a common data model for standard model and data definitions and a common software interface for engine control and robust physics-based circuit and transport solvers. The Pulse Platform has been incorporated into a number of commercial, research, and academic tools for medical simulation. Significance: The Pulse Platform is an innovative, well-validated, open-source tool for medical modeling and simulation in the training and clinical decision-making field.",
     "short name": "Pulse Physiology Engine",
     "short description": "This platform enables accurate and consistent, real-time physiologic simulations for medical training and clinical decision-making tools.",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_DoeN3hckgn7Ht73_42399_2019_53_Figa_HTML.png"
   },
   {
     "map id": 150,
@@ -2372,7 +2414,8 @@ let tools = [
     "Description": "CTK delivers an integrated set of DICOM Networking and Application Hosting widgets, libraries, demo programs and related support to developers of biomedical image computer applications using tools that are compatible with the CTK technologies and usable from C++ or Python.",
     "short name": "CTK - The Common Toolkit",
     "short description": "CTK delivers an integrated set of DICOM Networking and Application Hosting widgets and libraries for biomedical image computer applications.",
-    "wider network": "Apache"
+    "wider network": "Apache",
+    "extra_image": ""
   },
   {
     "map id": 151,
@@ -2397,7 +2440,8 @@ let tools = [
     "Description": "GIMIAS is a software framework for fast prototyping of medical applications. Provides a workflow-oriented environment for biomedical image computing and simulation, and it can be extended through the development of problem-specificplug-ins.GIMIAS is also a standalone application for visualization and processing of medical data ready to be used in clinical environment.",
     "short name": "GIMIAS",
     "short description": "GIMIAS is a software framework & workflow-oriented environment for fast prototyping of medical apps in biomedical image computing & simulation.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1Oy4UajibqB4tOk_CardioWorkflow.jpg"
   },
   {
     "map id": 152,
@@ -2422,7 +2466,8 @@ let tools = [
     "Description": "KWWidgets is a Graphical User Interface (GUI) class library based on Tcl/Tk with a C++ Application Programming Interface (API)",
     "short name": "KWWidgets",
     "short description": "KWWidgets is a Graphical User Interface (GUI) class library based on Tcl/Tk with a C++ Application Programming Interface (API).",
-    "wider network": "NA-MIC Kit"
+    "wider network": "NA-MIC Kit",
+    "extra_image": "R_1Q0zD6C7xkPvUZl_KWWidgetsVolView2Screenshot.jpg"
   },
   {
     "map id": 153,
@@ -2447,7 +2492,8 @@ let tools = [
     "Description": "Thermo Scientificâ„¢ Open Inventorâ„¢Medical Edition is an object-oriented 2D and 3D software development toolkit (SDK) for the development of medical, dental, and research applications using C++, .NET or Java, for cloud, desktop and mobile environments. Its easy-to-use API, extensible architecture, and large set of advanced built-in components provide developers with a high-level platform for integrating powerful 2D/3D visualization and analysis capabilities into software applications in a simple and consistent way.",
     "short name": "Open Inventor",
     "short description": "Open Inventor Medical Edition is an object-oriented 2D, 3D software development toolkit for medical, dental, and research applications.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 154,
@@ -2472,7 +2518,8 @@ let tools = [
     "Description": "ImageJ is a Java-based image processing program developed at the National Institutes of Health and the Laboratory for Optical and Computational Instrumentation (LOCI, University of Wisconsin). ImageJ can display, edit, analyze, process, save, and print 8-bit color and grayscale, 16-bit integer, and 32-bit floating point images. It can read many image file formats, including TIFF, PNG, GIF, JPEG, BMP, DICOM, and FITS, as well as raw formats.",
     "short name": "ImageJ",
     "short description": "ImageJ is an image processing program developed at the National Institutes of Health and the Laboratory for Optical and Computational Instrumentation.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3PNUF5alxhNbPIJ_Imagej.jpeg"
   },
   {
     "map id": 155,
@@ -2497,7 +2544,8 @@ let tools = [
     "Description": "Fiji is an image processing package â€” a \"batteries-included\" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.",
     "short name": "Fiji",
     "short description": "Fiji is an image processing package as a \"batteries-included\" distribution of ImageJ, bundling many plugins for scientific image analysis.",
-    "wider network": "ImageJ"
+    "wider network": "ImageJ",
+    "extra_image": ""
   },
   {
     "map id": 156,
@@ -2522,7 +2570,8 @@ let tools = [
     "Description": "KNIME, the Konstanz Information Miner, is a free and open-source data analytics, reporting and integration platform. KNIME integrates various components for machine learning and data mining through its modular data pipelining concept.",
     "short name": "KNIME",
     "short description": "KNIME is a data analytics, reporting and integration platform. KNIME integrates various components for machine learning and data mining.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_33ke5RJI3DQoOtl_Knime.jpg"
   },
   {
     "map id": 157,
@@ -2547,7 +2596,8 @@ let tools = [
     "Description": "BioSig is a software library for processing of biomedical signals (EEG, ECG, etc.) with Matlab, Octave, C/C++ and Python. A standalone signal viewer supporting more than 30 different data formats is also provided.",
     "short name": "BioSig",
     "short description": "BioSig is a software library for processing of biomedical signals (EEG, ECG, etc.) with Matlab, Octave, C/C++ and Python.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_31o6XHbOPMzaqBI_Screen Shot 2019-11-05 at 11.38.15.png"
   },
   {
     "map id": 158,
@@ -2572,7 +2622,8 @@ let tools = [
     "Description": "PhysioBank is a large and growing archive of well-characterized digital recordings of physiologic signals and related data for use by the biomedical research.",
     "short name": "PhysioBank",
     "short description": "PhysioBank is a large and growing archive of well-characterized digital recordings of physiologic signals for use by the biomedical research.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": ""
   },
   {
     "map id": 159,
@@ -2597,7 +2648,8 @@ let tools = [
     "Description": "open-source software for viewing ECGs and other physiologic waveforms and associated annotations (event markers). It supports efficient interactive creation and modification of annotations, capabilities that are essential for building new collections of physiologic signals and time series for research.",
     "short name": "LightWave",
     "short description": "open-source software for viewing ECGs and other physiologic waveforms and associated annotations (event markers).",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": "R_3EWmGatmTvgJko6_nihms582734f1.jpg"
   },
   {
     "map id": 160,
@@ -2622,7 +2674,8 @@ let tools = [
     "Description": "The eICU Collaborative Research Database holds data associated with over 200,000 patient stays, providing a large sample size for research studies.",
     "short name": "eICU Collaborative Database",
     "short description": "The eICU Collaborative Research Database holds data associated with over 200,000 patient stays, providing a large sample size for research studies.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": "R_2eOnnOSEIguGJW4_Screen Shot 2019-11-05 at 12.15.13.png"
   },
   {
     "map id": 161,
@@ -2647,7 +2700,8 @@ let tools = [
     "Description": "A novel real-time machine learning pipeline for the classification of PAF in an online streaming environment using a scalable and parallelized Apache Spark platform",
     "short name": "PhysOnline",
     "short description": "A novel real-time machine learning pipeline for the classification of PAF in an online streaming environment using Apache Spark platform.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1FEDjbsqqaNRnvg_Screen Shot 2019-11-05 at 13.03.43.png"
   },
   {
     "map id": 162,
@@ -2672,7 +2726,8 @@ let tools = [
     "Description": "ISRUC-Sleep is a polysomnographic (PSG) dataset that was created to help sleep researchers in their studies. The data were obtained from human adults, including healthy subjects, and subjects with sleep disorders under the effect of sleep medication.",
     "short name": "ISRUC Sleep Dataset",
     "short description": "ISRUC-Sleep is a polysomnographic (PSG) dataset that was created to help sleep researchers in their studies. The data were obtained from human adults.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1mdVQEpR5qJAGag_Details-of-ISRUC-Sleep-dataset.png"
   },
   {
     "map id": 163,
@@ -2697,7 +2752,8 @@ let tools = [
     "Description": "SigViewer visualizes biosignal data streams such as EEG, EMG, EOG, ECG, and so on [3]. The application can load most biosignal formats provided by a library of the BioSig project, including .GDF, .EDF, .BDF, .CNT, .DAT (BCI2000), and .EEG (Brain Products GmbH, Germany). In addition to displaying data, SigViewer supports creating and saving annotations of arbitrary data chunks.",
     "short name": "SigViewer",
     "short description": "SigViewer visualizes biosignal data streams such as EEG, EMG, EOG, EC.",
-    "wider network": "BioSig"
+    "wider network": "BioSig",
+    "extra_image": "R_31GTFPaOZwWUDgH_screenshot-1.png"
   },
   {
     "map id": 164,
@@ -2722,7 +2778,8 @@ let tools = [
     "Description": "SignalServer is a program to record data from various sources such as biosignal amplifiers, data acquisition cards, joysticks, and mice.",
     "short name": "SignalServer",
     "short description": "SignalServer is a program to record data from various sources such as biosignal amplifiers, data acquisition cards, joysticks, and mice.",
-    "wider network": "BioSig"
+    "wider network": "BioSig",
+    "extra_image": "R_3QYHBzYcTHFFY0L_Screen Shot 2019-11-05 at 14.53.16.png"
   },
   {
     "map id": 165,
@@ -2747,7 +2804,8 @@ let tools = [
     "Description": "Stimfit, a free software package for cellular neurophysiology with a Python scripting interface and a built-in Python shell",
     "short name": "StimFit",
     "short description": "Stimfit, a free software package for cellular neurophysiology with a Python scripting interface and a built-in Python shell.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_4NL08gb5YdCQX7z_fninf-08-00016-g001.jpg"
   },
   {
     "map id": 166,
@@ -2772,7 +2830,8 @@ let tools = [
     "Description": "OpenViBE is a software for real-time neurosciences (that is, for real-time processing of brain signals). It can be used to acquire, filter, process, classify and visualize brain signals in real time. Since v2.2.0, OpenViBE also includes a tool for offline or batch analysis of large datasets.",
     "short name": "OpenVibe",
     "short description": "OpenViBE is a software for real-time neurosciences. It can be used to acquire, filter, process, classify and visualize brain signals in real time.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_25SeFc3OadU6ORa_openvibe1.jpg"
   },
   {
     "map id": 167,
@@ -2797,7 +2856,8 @@ let tools = [
     "Description": "OpenWalnut is an open source tool for multi-modaldata visualization. Its universality allows it to be easily extended and used in a large variety of application cases. It is both, a tool for the scientific user and a powerful framework for the visualization researcher.",
     "short name": "OpenWalnut",
     "short description": "OpenWalnut is an open source tool for multi-modaldata visualization easily extended and used in a large variety of applications.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_23eiCZlgUQ9tgyz_LineAO_Raw-1024x629.png"
   },
   {
     "map id": 168,
@@ -2822,7 +2882,8 @@ let tools = [
     "Description": "A free, opensource, multiplatform, universal viewer and toolbox intended for, but not limited to, timeseries storage files like EEG, EMG, ECG, BioImpedance",
     "short name": "EDFBrowser",
     "short description": "A free, opensource, multiplatform, universal viewer and toolbox intended for timeseries storage files like EEG, EMG, ECG, BioImpedance.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1KdtXCfXw3CflKd_browser1small.png"
   },
   {
     "map id": 169,
@@ -2847,7 +2908,8 @@ let tools = [
     "Description": "PDkit, an open source toolkit for PD progression monitoring using multimodal sensor data obtained by smartphone apps or wearables.",
     "short name": "PDKit",
     "short description": "PDkit, an open source toolkit for PD progression monitoring using multimodal sensor data obtained by smartphone apps or wearables.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 170,
@@ -2872,7 +2934,8 @@ let tools = [
     "Description": "The Reconstruction Toolkit (RTK) is an open-source and cross-platform software for fast circular cone-beam CT reconstruction based on the Insight Toolkit (ITK).",
     "short name": "Reconstruction Toolkit (RTK)",
     "short description": "The Reconstruction Toolkit (RTK) is a cross-platform software for fast circular cone-beam CT reconstruction based on the Insight Toolkit (ITK).",
-    "wider network": "Kitware"
+    "wider network": "Kitware",
+    "extra_image": "R_AEA6lbpdfSJBowp_Blurred.jpg"
   },
   {
     "map id": 171,
@@ -2897,7 +2960,8 @@ let tools = [
     "Description": "MRIcron is a cross-platform NIfTI format image viewer. It can load multiple layers of images, generate volume renderings and draw volumes of interest. It also provides dcm2nii for converting DICOM images to NIfTI format and NPM for statistics.",
     "short name": "MRIcron",
     "short description": "MRIcron is a cross-platform NIfTI format image viewer. It can load multiple layers of images, generate volume renderings and draw volumes of interest.",
-    "wider network": "NeuroDebian"
+    "wider network": "NeuroDebian",
+    "extra_image": "R_2XnFACePcnHInTx_phpK5P2fC.jpeg"
   },
   {
     "map id": 172,
@@ -2922,7 +2986,8 @@ let tools = [
     "Description": "CaPTk is a software platform for analysis of radiographic cancer images, currently focusing on brain, breast, and lung cancer. CaPTk integrates advanced, validated tools performing various aspects of medical image analysis, that have been developed in the context of active clinical research studies and collaborations toward addressing real clinical needs.",
     "short name": "brain-CaPTk",
     "short description": "CaPTk is a software platform for analysis of radiographic cancer images, currently focusing on brain, breast, and lung cancer.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_31Siv38v2Uye8UB_baseScreenshot.png"
   },
   {
     "map id": 173,
@@ -2947,7 +3012,8 @@ let tools = [
     "Description": "We have developed a program for mutual information registration of brain imaging data using ITK classes",
     "short name": "BRAINSFit",
     "short description": "We have developed a program for mutual information registration of brain imaging data using ITK classes.",
-    "wider network": "BRAINSTools"
+    "wider network": "BRAINSTools",
+    "extra_image": ""
   },
   {
     "map id": 174,
@@ -2972,7 +3038,8 @@ let tools = [
     "Description": "A tool for atrioventricular junction motion tracking from cine cardiovascular magnetic resonance (CMR) images",
     "short name": "AVJ motion tracking",
     "short description": "A tool for atrioventricular junction motion tracking from cine cardiovascular magnetic resonance (CMR) images.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3dEqbYznr5PBY7q_xiao3-2738623.jpg"
   },
   {
     "map id": 175,
@@ -2997,7 +3064,8 @@ let tools = [
     "Description": "NeuroImaging Tools & Resources Collaboratory is an award-winning free web-based resource that offers comprehensive information on an ever expanding scope of neuroinformatics software and data.",
     "short name": "NeuroImaging Tools",
     "short description": "NeuroImaging Tools & Resources Collaboratory is a free web-based resource that offers comprehensive information on neuroinformatics software and data.",
-    "wider network": "NITR"
+    "wider network": "NITR",
+    "extra_image": ""
   },
   {
     "map id": 176,
@@ -3022,7 +3090,8 @@ let tools = [
     "Description": "OpenMAF or Multimod Application Framework (MAF) provides high level components that can be combined to develop vertical, multi-modal visualization applications.",
     "short name": "OpenMAF",
     "short description": "OpenMAF or Multimod Application Framework provides modular high level components to combine into vertical, multi-modal visualization applications.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_DeHgGhZjbnn99UB_Screen Shot 2019-11-06 at 16.03.56.png"
   },
   {
     "map id": 177,
@@ -3047,7 +3116,8 @@ let tools = [
     "Description": "A free & open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations",
     "short name": "Interactive Medical Simulation Toolkit",
     "short description": "A free & open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.",
-    "wider network": "KitWare"
+    "wider network": "KitWare",
+    "extra_image": "R_3oKE9UcxhklTivS_iMSTK-Data-Flow-Compact-new-1 (1).png"
   },
   {
     "map id": 178,
@@ -3072,7 +3142,8 @@ let tools = [
     "Description": "Same information as in the SIDIAP with additional specific data of great interest such as:  Immunitzations: coverage over 85% for the vaccines offered to children under tha national immunization programme Paediatric Screening: these variables are: Birthweight Somatometry: wight, height, head circumference Diet Eye examination Otoscopy Puberty stages (Tanner scale)",
     "short name": "SIDIAP - Pediatrics",
     "short description": "Same information as in SIDIAP database plus Immunitzations, Birthweight Somatometry, Diet Eye examination and Otoscopy Puberty stages.",
-    "wider network": "SIDIAP"
+    "wider network": "SIDIAP",
+    "extra_image": ""
   },
   {
     "map id": 179,
@@ -3097,7 +3168,8 @@ let tools = [
     "Description": "The IMI EHR4CR project is combining and extending several previously isolated state-of-the-art technical components through a new approach to develop a platform for reusing EHR data to support medical research. This will be achieved through multiple but unified initiatives across different major disease areas (e.g. cardiovascular, cancer) and clinical research use cases (protocol feasibility, patient identification and recruitment, clinical trial execution and serious adverse event reporting), with various local and national stakeholders across several countries and therefore under various legal frameworks.",
     "short name": "EHR4CR",
     "short description": "This project improves state-of-the-art techniques for reusing EHR data. It has stakeholders across several countries & legal frameworks.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2QzfnidbxYbcK0J_platform_1.png"
   },
   {
     "map id": 180,
@@ -3122,7 +3194,8 @@ let tools = [
     "Description": "SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation.",
     "short name": "Simulation Open Framework Architecture (SOFA)",
     "short description": "SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_9NtMTuW5o5ezI09_SOFA_snapshot.png"
   },
   {
     "map id": 181,
@@ -3147,7 +3220,8 @@ let tools = [
     "Description": "The aim of the Medical Imaging Interaction Toolkit (MITK) is to facilitate the creation of clinically usable image-based software.",
     "short name": "Medical Imaging Interaction Toolkit MITK",
     "short description": "The aim of the Medical Imaging Interaction Toolkit (MITK) is to facilitate the creation of clinically usable image-based software.",
-    "wider network": "ITK VTK"
+    "wider network": "ITK VTK",
+    "extra_image": "R_1d6rLMRDJekJbbW_700px-NVIDIA_AI-Assisted_Annotation.jpeg"
   },
   {
     "map id": 182,
@@ -3172,7 +3246,8 @@ let tools = [
     "Description": "i2b2 began as a research data warehouse querying tool focused on finding patients who may be eligible to enroll in clinical trials. It was initially adopted by academic institutions in the United States, but it quickly expanded to Europe, and now is used for this purpose worldwide. Pharmaceutical companies expanded i2b2's capabilities to include biomarker and genomic data, and have adopted this modified version called tranSMART for internal analytics. The i2b2 website lists over 300 different academic and commercial institutions as active users of the i2b2 platform. i2b2 is not only a data model, but is unique in its integration with a user-friendly web and thick client-based query interface.",
     "short name": "I2B2 CDM",
     "short description": "i2b2 is a data model and querying tool focused on finding patients to enroll in clinical trials and extended to include biomarker and genomic data.",
-    "wider network": "I2B2"
+    "wider network": "I2B2",
+    "extra_image": ""
   },
   {
     "map id": 183,
@@ -3197,7 +3272,8 @@ let tools = [
     "Description": "SCIRun is a problem solving environment or \"computational workbench\" in which a user selects software modules that can be connected in a visual programing environment to create a high level workï¬‚ow for experimentation. Each module exposes all the available parameters necessary for scientists to adjust the outcome of their simulation or visualization. The networks in SCIRun are flexible enough to enable duplication of networks and creation of new modules.",
     "short name": "SCIRun",
     "short description": "SCIRun is a visual programing environment to create a high level workflows for experimentation.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 184,
@@ -3222,7 +3298,8 @@ let tools = [
     "Description": "The vtkINRIA3D toolkit is an extension of VTK providing synchronization of views and interaction, and management of spatio-temporal data",
     "short name": "vtkINRIA3D",
     "short description": "The vtkINRIA3D toolkit is an extension of VTK providing synchronization of views and interaction, and management of spatio-temporal data.",
-    "wider network": "VTK"
+    "wider network": "VTK",
+    "extra_image": ""
   },
   {
     "map id": 185,
@@ -3247,7 +3324,8 @@ let tools = [
     "Description": "A collections of software and tools for processing DICOM files.",
     "short name": "OFIS DICOM",
     "short description": "A collections of software and tools for processing DICOM files.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 186,
@@ -3272,7 +3350,8 @@ let tools = [
     "Description": "JPEG 2000, JPEG-LS, RLE and deflated transfer syntax. It comes with a super fast scanner implementation to quickly scan hundreds of DICOM files. It supports SCU network operations (C-ECHO, C-FIND, C-STORE, C-MOVE). PS 3.3 & 3.6 are distributed as XML files. It also provides PS 3.15 certificates and password based mechanism to anonymize and de-identify DICOM datasets.",
     "short name": "Grassroots DICOM",
     "short description": "Quickly scan hundreds of DICOM files providing certificates and password based mechanism to anonymize and de-identify DICOM datasets.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 187,
@@ -3297,7 +3376,8 @@ let tools = [
     "Description": "A PHI de-identification tool, which comes with a graphical user interface and pre-trained model.",
     "short name": "De-identify",
     "short description": "A PHI de-identification tool, which comes with a graphical user interface and pre-trained model.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 188,
@@ -3322,7 +3402,8 @@ let tools = [
     "Description": "We extended a previous filtering-based method to cover data from distributed sources and demonstrated the feasibility of using homomorphic encryption to develop an efficient multi-party protocol for distributed data de-identification. Experimental results show that our proposed method can simultaneously guarantee data privacy and preserve data utility for analysis.",
     "short name": "Privacy-preserving Distributed Filtering for NLP",
     "short description": "This algorithm uses a filtering-based method to cover data from varied sources and multi-party protocols for distributed data de-identification.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3RyAsA0cwXXMQJV_Screen Shot 2019-11-08 at 17.43.46.png"
   },
   {
     "map id": 189,
@@ -3347,7 +3428,8 @@ let tools = [
     "Description": "NLM Scrubber is a freely available automatic clinical text de-identification tool with full support by its developers.",
     "short name": "NLM Scrubber",
     "short description": "NLM Scrubber is a freely available automatic clinical text de-identification tool with full support by its developers.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_10Bi0UEoaLd3ESe_NLM-Scrubber.jpg"
   },
   {
     "map id": 190,
@@ -3372,7 +3454,8 @@ let tools = [
     "Description": "A tool that fully de-identifies standard medical imaging objects, including metadata and pixel data, providing at the same time a reversible de-identifier mechanism that retains search capabilities from the original data",
     "short name": "Visual Anonymizer",
     "short description": "A tool that fully de-identifies standard medical imaging objects, including metadata and pixel data and provides a reversible de-identifier mechanism.",
-    "wider network": "Dicoogle"
+    "wider network": "Dicoogle",
+    "extra_image": "R_dbR848XcZTnhF61_1-s2.0-S1532046417302721-fx1.jpg"
   },
   {
     "map id": 191,
@@ -3397,7 +3480,8 @@ let tools = [
     "Description": "A tool for DICOM data de-identification in order to fulfil the requirements of patient data protection.",
     "short name": "PixelMed DICOMCleaner",
     "short description": "A tool for DICOM data de-identification in order to fulfil the requirements of patient data protection.",
-    "wider network": "DICOM"
+    "wider network": "DICOM",
+    "extra_image": "R_agaZsWJMzCW45Z7_1.jpeg"
   },
   {
     "map id": 192,
@@ -3422,11 +3506,12 @@ let tools = [
     "Description": "DicomCleanerâ„¢ is a free open source tool with a user interface for importing, \"cleaning\" (de-identifying) and saving sets of DICOM instances (files). It supports blackout (redaction) of burned in identifiers in pixel data, including block-based redaction of lossy compressed JPEG data to avoid further loss due to recompression. It is available at PixelMedâ„¢ DicomCleanerâ„¢.",
     "short name": "DVTK DICOM anonymizer",
     "short description": "DicomCleaner is a free open source tool with a user interface for importing, \"cleaning\" (de-identifying) and saving sets of DICOM instances (files).",
-    "wider network": "PixelMed Publishing"
+    "wider network": "PixelMed Publishing",
+    "extra_image": "R_32IT0VSwjV5btII_DicomCleanerMainPanelAfterClean.png"
   },
   {
     "map id": 193,
-    "Tool Name": "ANN's for Deid",
+    "Tool Name": "ANNs for Deid",
     "Open source": 0,
     "Community size": 1,
     "Databank size": 0,
@@ -3445,9 +3530,10 @@ let tools = [
     "Paper link": "https://www.ncbi.nlm.nih.gov/pubmed/28040687",
     "Contact": "Dernoncourt F",
     "Description": "The first de-identification system based on artificial neural networks (ANNs), which requires no handcrafted features or rules, unlike existing systems. Patient notes in electronic health records (EHRs) may contain critical information for medical investigations. However, the vast majority of medical investigators can only access de-identified notes, in order to protect the confidentiality of patients. In the United States, the Health Insurance Portability and Accountability Act (HIPAA) defines 18 types of protected health information that needs to be removed to de-identify patient notes. Manual de-identification is impractical given the size of electronic health record databases, the limited number of researchers with access to non-de-identified notes, and the frequent mistakes of human annotators. A reliable automated de-identification system would consequently be of high value.",
-    "short name": "ANN's for Deid",
+    "short name": "ANNs for Deid",
     "short description": "The first de-identification system based on artificial neural networks (ANNs), which requires no handcrafted features or rules for patient notes.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 194,
@@ -3472,7 +3558,8 @@ let tools = [
     "Description": "ARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data.",
     "short name": "Arx",
     "short description": "ARX is a comprehensive open source software for anonymizing sensitive personal data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 195,
@@ -3497,7 +3584,8 @@ let tools = [
     "Description": "We help our customers protect patient privacy and connect to the nation's largest ecosystem of real-world data",
     "short name": "Datavant",
     "short description": "Datavant helps customers protect patient privacy and connect to the nation's largest ecosystem of real-world data using unique patient IDs.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 196,
@@ -3522,7 +3610,8 @@ let tools = [
     "Description": "Aircloak's unique approach ensures the existing primary database is not modified in any way. Aircloak handles all data types including unstructured text.  Aircloak offers analysts a rich explorative SQL database interface. Analysts submit SQL queries and interact with the existing database to extract the requested data.  Both the queries and responses are dynamically modified by Aircloak to ensure anonymity while still providing high accuracy.",
     "short name": "Aircloak",
     "short description": "Aircloak's unique approach ensures the existing primary database is not modified in any way and handles all data types including unstructured text.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 197,
@@ -3547,7 +3636,8 @@ let tools = [
     "Description": "Anonymises relational databases. Performs some specific preprocessing tasks; e.g. preprocesses some specific databases (e.g. Servelec RiO EMR). fetches some word lists, e.g. forenames/surnames/eponyms. Provides a natural language processing (NLP) pipeline. Web app for querying the anonymised database managing a consent-to-contact process",
     "short name": "CRATE",
     "short description": "Anonymises relational databases. Provides a natural language processing (NLP) pipeline.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 198,
@@ -3572,7 +3662,8 @@ let tools = [
     "Description": "In this study, we introduce the first use of federated learning for multi-institutional collaboration, enabling deep learning modeling without sharing patient data. Our quantitative results demonstrate that the performance of federated semantic segmentation models (Dice=0.852) on multimodal brain scans is similar to that of models trained by sharing data (Dice=0.862).",
     "short name": "Multi-Institutional Deep Learning Modeling",
     "short description": "We introduce the first use of federated learning for multi-institutional collaboration, enabling deep learning modeling without sharing patient data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 199,
@@ -3597,7 +3688,8 @@ let tools = [
     "Description": "We simulate the distribution of deep learning models across 4 institutions using various training heuristics and compare the results with a deep learning model trained on centrally hosted patient data. The training heuristics investigated include ensembling single institution models, single weight transfer, and cyclical weight transfer. We evaluated these approaches for image classification in 3 independent image collections (retinal fundus photos, mammography, and ImageNet)",
     "short name": "Cyclical Weight Transfer Deep Learning",
     "short description": "We simulate the distribution of deep learning models across 4 institutions and compare the results with centrally hosted patient data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 200,
@@ -3622,7 +3714,8 @@ let tools = [
     "Description": "privacy preserving data publishing (PPDP), which aims in sharing data in a way that privacy is preserved while the information lost is kept at a minimum. In this Letter, a new anonymisation algorithm for PPDP is proposed, which is based on k-anonymity through pattern-based multidimensional suppression (kPB-MS). The algorithm uses feature selection for reducing the data dimensionality and then combines attribute and record suppression for obtaining k-anonymity.",
     "short name": "k-PB-MS",
     "short description": "Privacy preserving data publishing (PPDP) aims in sharing data in a way that privacy is preserved while the information lost is kept at a minimum.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 201,
@@ -3647,7 +3740,8 @@ let tools = [
     "Description": "We introduce a design for a privacy-preservingEHRdata cube and the anonymization methods needed to achieve data privacy. We further focus on changes in efficiency and effectiveness that are caused by the anonymization process for privacy preservation. Thus, we experimentally evaluate various types of privacy-preservingEHRdata cubes using several practical metrics and discuss the applicability of each anonymization method with consideration for theEHRanalysis environment.",
     "short name": "Privacy-preserving data cube",
     "short description": "We introduce a design for a privacy-preserving EHR data cube and the anonymization methods needed to achieve data privacy.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 202,
@@ -3672,7 +3766,8 @@ let tools = [
     "Description": "The Data Safe Haven has been certified to the ISO27001 information security standard and conforms to NHS Digital's Information Governance Toolkit. Built using a walled garden approach, where the data is stored, processed and managed within the security of the system, avoiding the complexity of assured end point encryption. A file transfer mechanism enables information to be transferred into the walled garden simply and securely.",
     "short name": "Data Safe Haven",
     "short description": "The Data Safe Haven is built using a walled garden approach, where the data is stored, processed and managed within the security of the system.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 203,
@@ -3697,7 +3792,8 @@ let tools = [
     "Description": "cleanEHR is an electronic health care record (EHR) data cleaning and processing platform, which works with the Critical Care Health Informatics Collaborative's data set. The purpose of the project is to enable researchers to answer clinical questions that are important to patients, but which are normally too difficult because data is unstandardised, siloed, and inaccessible.",
     "short name": "CleanEHR",
     "short description": "cleanEHR is an EHR data cleaning and processing platform, which works with the Critical Care Health Informatics Collaborative's data set.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 204,
@@ -3722,7 +3818,8 @@ let tools = [
     "Description": "We introduce a novel framework for privacy-preserving large-scale linkage of electronic health records. As part of this framework, we utilize our proposed system, called LSHDB, which is a parallel and distributed data engine for performing Privacy-Preserving Record Linkage (PPRL) tasks, while offering formal guarantees of completeness of the results. We also demonstrate that the MapReduce extension of our framework, offers a robust and distributed solution for performing on-demand, large-scale privacy-preserving record linkage tasks in the healthcare domain.",
     "short name": "FEMRL",
     "short description": "We introduce a novel framework for privacy-preserving large-scale linkage of electronic health records.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 205,
@@ -3747,7 +3844,8 @@ let tools = [
     "Description": "Tools for EHR patient de-duplication (aka entity resolution). This tool genereates \"Unique Identifiers\" (UID's) used for patient de-duplication (aka \"Entity Resolution\", aka \"Record Linkage\").  The current implementation is using two CSV files as input for two separate scripts",
     "short name": "OneFL Deduper",
     "short description": "This tool genereates \"Unique Identifiers\" (UID's) used for patient de-duplication (aka \"Entity Resolution\", aka \"Record Linkage\").",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 206,
@@ -3772,7 +3870,8 @@ let tools = [
     "Description": "Rare disease is a disease with a precious low incidence and most of them are chronic. The rare disease associated phenotypes are usually described by a set of clinical medical terms. Rare diseases always have a wide range of complex and diverse phenotypes, however, clinicians always lack of either awareness of rare diseases or clinical experiences, which makes patients with rare diseases often not be accurately diagnosed and treated in time.With the advance of medical research and the development of socio-economic, rare diseases have aroused widespread concern of researchers and clinicians. To facilitate the effective diagnosis of rare diseases, we constructed an auxiliary diagnosis system for rare diseases RDAD (phenotype-based Rare Disease Auxiliary Diagnosis system).",
     "short name": "RDAD (Rare Disease)",
     "short description": "An auxiliary diagnosis system for rare diseases RDAD (phenotype-based Rare Disease Auxiliary Diagnosis system) for effective diagnosis.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 207,
@@ -3797,7 +3896,8 @@ let tools = [
     "Description": "Microbiome profiles in the human body and environment niches have become publicly available due to recent advances in high-throughput sequencing technologies. Indeed, recent studies have already identified different microbiome profiles in healthy and sick individuals for a variety of diseases; this suggests that the microbiome profile can be used as a diagnostic tool in identifying the disease states of an individual. However, the high-dimensional nature of metagenomic data poses a significant challenge to existing machine learning models. Consequently, to enable personalized treatments, an efficient framework that can accurately and robustly differentiate between healthy and sick microbiome profiles is needed. We propose MetaNN (i.e., classification of host phenotypes from Metagenomic data using Neural Networks), a neural network framework which utilizes a new data augmentation technique to mitigate the effects of data over-fitting.",
     "short name": "MetaNN (Metagenomics)",
     "short description": "MetaNN  is a neural network framework which utilizes a new data augmentation technique for phenotyping for Metagenomic data",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 208,
@@ -3822,7 +3922,8 @@ let tools = [
     "Description": "Opioid overdoses were identified by diagnoses codes from the Marshfield Clinic population and assigned a severity score via chart review to form a gold standard set of labels. Three primary feature sets were constructed from disparate data sources surrounding each event and used to train machine learning models for phenot",
     "short name": "P'typing Overdosing Events",
     "short description": "A study for phenotyping Opioid overdoses which used diagnoses codes and a severity score to form a gold standard dataset for training a ML algorithm.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 209,
@@ -3847,7 +3948,8 @@ let tools = [
     "Description": "Our system utilizes UMLS to extract clinically relevant features from the unstructured text and then facilitates portability across different institutions and data systems by incorporating OHDSI's OMOP Common Data Model (CDM) to standardize necessary data elements. Our system can also store the key components of rule-based systems (e.g., regular expression matches) in the format of OMOP CDM, thus enabling the reuse, adaptation and extension of many existing rule-based clinical NLP systems. We experimented with our system on the corpus from i2b2's Obesity Challenge as a pilot study. Our system facilitates portable phenotyping of obesity and its 15 comorbidities based on the unstructured patient discharge summaries, while achieving a performance that often ranked among the top 10 of the challenge participants.",
     "short name": "UMLS & OMOP led P'typing",
     "short description": "Using UMLS to extract clinically relevant features from the unstructured text and incorporating OMOP to standardize necessary data elements.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 210,
@@ -3872,7 +3974,8 @@ let tools = [
     "Description": "Over 75 million Americans have multiple concurrent chronic conditions and medical decision making for these patients is mostly based on retrospective cohort studies. Current methods to generate cohorts of patients with comorbidities are neither scalable nor generalizable. We propose a supervised machine learning algorithm for learning comorbidity phenotypes without requiring manually created training sets. First, we generated myocardial infarction (MI) and type-2 diabetes (T2DM) patient cohorts using ICD9-based imperfectly labeled samples upon which LASSO logistic regression models were trained. Second, we assessed the effects of training sample size, inclusion of physician input, and inclusion of clinical text features on model performance. Using ICD9 codes as our labeling heuristic, we achieved comparable performance to models created using keywords as labeling heuristic. We found that expert input and higher training sample sizes could compensate for the lack of clinical text derived features. However, our best performing model included clinical text as features with a large training sample size",
     "short name": "Co-morbidities P'typing",
     "short description": "A supervised machine learning algorithm for learning comorbidity phenotypes without requiring manually created training sets.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 211,
@@ -3897,7 +4000,8 @@ let tools = [
     "Description": "We are a global network of health and demographic surveillance systems (HDSSs) that provide a more complete picture of the health status of communities. Since they collect data from whole communities over extended time periods, they more accurately reflect health and population problems in low- and middle-income countries (LMICs). The HDSSs increasingly link population and health facility data to implement the new Comprehensive Health and Epidemiological Surveillance System (CHESS).",
     "short name": "INDEPTH Network",
     "short description": "A global network of health and demographic surveillance systems to understand health status of communities in LMICs, linked to health facility data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 212,
@@ -3922,7 +4026,8 @@ let tools = [
     "Description": "TCIA is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as â€œcollectionsâ€; typically patients' imaging related by a common disease (e.g. lung cancer), image modality or type (MRI, CT, digital histopathology, etc) or research focus. DICOM is the primary file format used by TCIA for radiology imaging. Supporting data related to the images such as patient outcomes, treatment details, genomics and expert analyses are also provided when available.",
     "short name": "The Cancer Image Archive",
     "short description": "TCIA is a service which de-identifies and hosts a large archive of medical images of cancer accessible for public download. DICOM is the main format.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 213,
@@ -3947,7 +4052,8 @@ let tools = [
     "Description": "ImageNet is an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. Currently we have an average of over five hundred images per node. We hope ImageNet will become a useful resource for researchers, educators, students and all of you who share our passion for pictures.",
     "short name": "ImageNet",
     "short description": "ImageNet is an image database organized according to the WordNet hierarchy, in which each node is depicted by hundreds and thousands of images.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 214,
@@ -3972,7 +4078,8 @@ let tools = [
     "Description": "The first chronological map of human health across 308 physical and mental health morbidities over time from birth to death.",
     "short name": "CALIBER Phenomics Platform",
     "short description": "The first chronological map of human health across 308 physical and mental health morbidities over time from birth to death.",
-    "wider network": "CALIBER"
+    "wider network": "CALIBER",
+    "extra_image": ""
   },
   {
     "map id": 215,
@@ -3997,7 +4104,8 @@ let tools = [
     "Description": "a privacy-protecting safe haven and secure remote access system",
     "short name": "SAIL Gateway",
     "short description": "A privacy-protecting safe haven and secure remote access system.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 216,
@@ -4022,7 +4130,8 @@ let tools = [
     "Description": "The Phenotype Knowledgebase website, PheKB, is a collaborative environment to building and validating electronic algorithms to identify characteristics of patients within health data.",
     "short name": "PheKB",
     "short description": "The Phenotype Knowledgebase website is a collaborative environment to building algorithms to identify characteristics of patients within health data.",
-    "wider network": "eMERGE"
+    "wider network": "eMERGE",
+    "extra_image": ""
   },
   {
     "map id": 217,
@@ -4047,7 +4156,8 @@ let tools = [
     "Description": "An Online Tool for Harmonizing Data Elements using Standardized Metadata Registries and Biomedical Vocabularies",
     "short name": "eleMap",
     "short description": "An Online Tool for Harmonizing Data Elements using Standardized Metadata Registries and Biomedical Vocabularies.",
-    "wider network": "eMERGE"
+    "wider network": "eMERGE",
+    "extra_image": ""
   },
   {
     "map id": 218,
@@ -4072,7 +4182,8 @@ let tools = [
     "Description": "Phenome-wide association studies (PheWAS) analyze many phenotypes compared to a single genetic variant (or other attribute).",
     "short name": "PheWAS Catalogs",
     "short description": "Phenome-wide association studies (PheWAS) analyze many phenotypes compared to a single genetic variant (or other attribute).",
-    "wider network": "eMerge Network"
+    "wider network": "eMerge Network",
+    "extra_image": ""
   },
   {
     "map id": 219,
@@ -4097,7 +4208,8 @@ let tools = [
     "Description": "London Medical Imaging and Artificial Intelligence Centre for Value-Based Healthcare will use artificial intelligence in medical imaging and related clinical data for faster and earlier diagnosis and streamlining manual reporting",
     "short name": "London Medical Imaging & AI Centre",
     "short description": "London Medical Imaging and Artificial Intelligence Centre will use AI in medical imaging and related clinical data for faster and earlier diagnosis.",
-    "wider network": "Industrial Strategy Challenge Fund"
+    "wider network": "Industrial Strategy Challenge Fund",
+    "extra_image": ""
   },
   {
     "map id": 220,
@@ -4122,7 +4234,8 @@ let tools = [
     "Description": "Glasgow's I-CAIRD (Industrial Centre for AI Research in Digital Diagnostics) will bring together clinicians, health planners and industry to work with innovative SMEs to answer clinical questions, and solve healthcare challenges more quickly and efficiently",
     "short name": "I-CAIRD",
     "short description": "I-CAIRD will bring together clinicians, health planners and industry to work with innovative SMEs to answer clinical questions.",
-    "wider network": "Industrial Strategy Challenge Fund"
+    "wider network": "Industrial Strategy Challenge Fund",
+    "extra_image": ""
   },
   {
     "map id": 221,
@@ -4147,7 +4260,8 @@ let tools = [
     "Description": "NCIMI (National Consortium of Intelligent Medical Imaging) in Oxford will consider the role clinical imaging plays in the delivery of more personalised care and earlier diagnosis to support disease prevention and treatment",
     "short name": "NCIMI",
     "short description": "NCIMI will consider the role clinical imaging plays in the delivery of personalised care and earlier diagnosis.",
-    "wider network": "Industrial Strategy Challenge Fund"
+    "wider network": "Industrial Strategy Challenge Fund",
+    "extra_image": ""
   },
   {
     "map id": 222,
@@ -4172,7 +4286,8 @@ let tools = [
     "Description": "The Northern Pathology Imaging Collaborative (NPIC) located in Leeds will boost the city's reputation in digital pathology research further by creating a centre linking up 9 industry partners, 8 universities and 9 NHS trusts",
     "short name": "NPIC",
     "short description": "NPIC will boost pathology research by creating a centre linking up 9 industry partners, 8 universities and 9 NHS trusts.",
-    "wider network": "Industrial Strategy Challenge Fund"
+    "wider network": "Industrial Strategy Challenge Fund",
+    "extra_image": ""
   },
   {
     "map id": 223,
@@ -4197,7 +4312,8 @@ let tools = [
     "Description": "Based in Coventry, the Pathology image data Lake for Analytics, Knowledge and Education (PathLAKE) will use NHS pathology data to drive economic growth in health-related AI",
     "short name": "PathLAKE",
     "short description": "The Pathology image data Lake for Analytics, Knowledge and Education (PathLAKE) will use NHS pathology data to drive health-related AI.",
-    "wider network": "Industrial Strategy Challenge Fund"
+    "wider network": "Industrial Strategy Challenge Fund",
+    "extra_image": ""
   },
   {
     "map id": 224,
@@ -4222,7 +4338,8 @@ let tools = [
     "Description": "PCORnet is a tightly integrated partnership of 9 large Clinical Research Networks, 2 Health Plan Research Networks, a Coordinating Center, and a Central Office. PCORnet represents a diverse set of patients and institutions, ranging from cutting-edge academic medical centers to local community health clinics caring for the nation's most vulnerable patients.",
     "short name": "PCORnet",
     "short description": "PCORnet is an integrated partnership of 9 large Clinical Research Networks, 2 Health Plan Research Networks, a Coordinating Center.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 225,
@@ -4247,7 +4364,8 @@ let tools = [
     "Description": "Sentinel is the FDA's national electronic system which has transformed the way researchers monitor the safety of FDA-regulated medical products, including drugs, vaccines, biologics, and medical devices.",
     "short name": "Sentinel",
     "short description": "Sentinel is the FDA's national electronic system which has transformed the way researchers monitor the safety of FDA-regulated medical products.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 226,
@@ -4272,7 +4390,8 @@ let tools = [
     "Description": "The Human Phenotype Ontology (HPO) project provides an ontology of medically relevant phenotypes, disease-phenotype annotations, and the algorithms that operate on these.",
     "short name": "Human Phenotype Ontology",
     "short description": "The Human Phenotype Ontology (HPO) provides an ontology of medical phenotypes, disease-phenotype annotations, and relevant algorithms.",
-    "wider network": "Monarch Initiative"
+    "wider network": "Monarch Initiative",
+    "extra_image": "R_Om6VsC8LAmp2fbX_enhancing-the-human-phenotype-ontology-for-use-by-the-layperson-6-638.jpg"
   },
   {
     "map id": 227,
@@ -4297,7 +4416,8 @@ let tools = [
     "Description": "HL7 FHIR: An Agile and RESTful approach to healthcare information exchange",
     "short name": "FIHR",
     "short description": "HL7 FHIR: An Agile and RESTful approach to healthcare information exchange.",
-    "wider network": "Health Level Seven International"
+    "wider network": "Health Level Seven International",
+    "extra_image": "R_29u0dhBWR1Biu9N_arch-uml3.png"
   },
   {
     "map id": 228,
@@ -4322,7 +4442,8 @@ let tools = [
     "Description": "Logical Observation Identifiers Names and Codes (LOINC) is a database and universal standard for identifying medical laboratory observations.",
     "short name": "LOINC",
     "short description": "Logical Observation Identifiers Names and Codes (LOINC) is a database and universal standard for identifying medical laboratory observations.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2fr4qCQbVrwbKbr_DXIOBnjWsAAcaZp.jpg"
   },
   {
     "map id": 229,
@@ -4347,7 +4468,8 @@ let tools = [
     "Description": "Criteria2Query aims to translate free-text eligibility criteria to standards-based executable cohort definition queries.",
     "short name": "Criteria2Query",
     "short description": "Criteria2Query aims to translate free-text eligibility criteria to standards-based executable cohort definition queries.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1Kpv631FEg0cys5_ocy178f1.jpg"
   },
   {
     "map id": 230,
@@ -4372,7 +4494,8 @@ let tools = [
     "Description": "A MLâ€“based open-source bio information extraction system, called EliIE, to structure and formalize clinical research EC into OMOP CDM.",
     "short name": "ELLIE",
     "short description": "A MLâ€“based open-source bio information extraction system, called EliIE, to structure and formalize clinical research EC into OMOP CDM.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1DTjJgfwPOy8sjQ_ocx019f2.jpg"
   },
   {
     "map id": 231,
@@ -4397,7 +4520,8 @@ let tools = [
     "Description": "A tool for transforming free-text clinical research eligibility criteria of Alzheimer's clinical trials into a structured relational database compliant with standards for medical terminologies and clinical data models",
     "short name": "RD for CRE",
     "short description": "A tool for transforming free-text clinical research eligibility criteria of Alzheimers clinical trials into a structured relational database.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3qPekx5iOBmu3St_nihms955981f1.jpg"
   },
   {
     "map id": 232,
@@ -4422,7 +4546,8 @@ let tools = [
     "Description": "PatientExploreR produces patient-level interactive and dynamic reports and facilitates visualization of clinical data without any programming required.",
     "short name": "patientExploR",
     "short description": "PatientExploreR produces patient-level interactive and dynamic reports and facilitates visualization of clinical data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1kY7Lsjc3AzEybj_btz409f1.jpg"
   },
   {
     "map id": 233,
@@ -4447,7 +4572,8 @@ let tools = [
     "Description": "A tool for ETL operations that load data from various sources with different database schema structures into the OMOP common data model.",
     "short name": "ROSITA",
     "short description": "A tool for ETL operations that load data from various sources with different database schema structures into the OMOP common data model.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1Ltz2BQvTTZwmOa_12911_2017_532_Fig1_HTML.jpg"
   },
   {
     "map id": 234,
@@ -4472,7 +4598,8 @@ let tools = [
     "Description": "RELMAÂ® helps search the LOINC database and helping map local codes to LOINC codes",
     "short name": "RELMA",
     "short description": "RELMAÂ® helps search the LOINC database and helping map local codes to LOINC codes.",
-    "wider network": "LOINC"
+    "wider network": "LOINC",
+    "extra_image": "R_31safGiBfxBySU8_download (8).jpeg"
   },
   {
     "map id": 235,
@@ -4497,7 +4624,8 @@ let tools = [
     "Description": "GEM - the Global Alzheimer's Association Interactive Network Entity Mapper to harmonize medical data",
     "short name": "GAAIN Entity Mapper",
     "short description": "GEM - the Global Alzheimer's Association Interactive Network Entity Mapper to harmonize medical data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_SAAPMP9nfP4UwXT_nihms741152f3.jpg"
   },
   {
     "map id": 236,
@@ -4522,7 +4650,8 @@ let tools = [
     "Description": "MapReduce Approach (MRA) for data management in healthcare industry with join based expectation maximization algorithm for NoSQL.",
     "short name": "MAPReduce",
     "short description": "MapReduce Approach (MRA) for data management in healthcare industry with join based expectation maximization algorithm for NoSQL.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_115YdipbdNR00xb_Screen Shot 2019-11-15 at 13.43.28.png"
   },
   {
     "map id": 237,
@@ -4547,7 +4676,8 @@ let tools = [
     "Description": "SNOMED CT is a structured clinical vocabulary for use in an electronic health record. It is the most comprehensive and precise clinical health terminology product in the world, forming an integral part of the electronic care record.",
     "short name": "SNOMED CT",
     "short description": "SNOMED CT is a structured clinical vocabulary for use in an electronic health record. It is the most comprehensive terminology product in the world.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 238,
@@ -4572,7 +4702,8 @@ let tools = [
     "Description": "RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software, including those of First Databank, Micromedex, Gold Standard Drug Database, and Multum. By providing links between these vocabularies, RxNorm can mediate messages between systems not using the same software and vocabulary.",
     "short name": "RXNORM",
     "short description": "RxNorm provides normalized names for clinical drugs and links its names to drug vocabularies commonly used in pharmacy drug interaction software.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 239,
@@ -4597,7 +4728,8 @@ let tools = [
     "Description": "ICD-10 is the 10th revision of the International Statistical Classification of Diseases and Related Health Problems (ICD), a medical classification list by the World Health Organization (WHO). It contains codes for diseases, signs and symptoms, abnormal findings, complaints, social circumstances, and external causes of injury or diseases.",
     "short name": "ICD 10",
     "short description": "ICD-10 is a medical classification list containing codes for diseases, signs and symptoms, abnormal findings, complaints and social circumstances.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 241,
@@ -4622,7 +4754,8 @@ let tools = [
     "Description": "Free, deployable, and trainable code. A place for developers to find and use free and open source deep learning models.",
     "short name": "Model Asset eXchange",
     "short description": "Free, deployable, and trainable code. A place for developers to find and use free and open source deep learning models.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 242,
@@ -4647,7 +4780,8 @@ let tools = [
     "Description": "MIMIC Code Repository: Code shared by the research community for the MIMIC-III database",
     "short name": "MIMIC Code Repository",
     "short description": "MIMIC Code Repository: Code shared by the research community for the MIMIC-III database.",
-    "wider network": "PhysioNet"
+    "wider network": "PhysioNet",
+    "extra_image": ""
   },
   {
     "map id": 243,
@@ -4672,7 +4806,8 @@ let tools = [
     "Description": "An image-analysis environment that supports the use of computational tools that facilitate reproducible research and support scientists.",
     "short name": "SimpleITK Notebooks",
     "short description": "An image-analysis environment that supports the use of computational tools that facilitate reproducible research and support scientists.",
-    "wider network": "Jupyter notebook web application"
+    "wider network": "Jupyter notebook web application",
+    "extra_image": "R_beY5bzSHspR9Phf_10278_2017_37_Fig4_HTML.gif"
   },
   {
     "map id": 244,
@@ -4697,7 +4832,8 @@ let tools = [
     "Description": "OpenSim lets users develop models of musculoskeletal structures and create dynamic simulations of a wide variety of movements.",
     "short name": "OpenSim",
     "short description": "OpenSim lets users develop models of musculoskeletal structures and create dynamic simulations of a wide variety of movements.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2z7UA1YBuEML6n9_download (9).jpeg"
   },
   {
     "map id": 245,
@@ -4722,7 +4858,8 @@ let tools = [
     "Description": "ONNX enables models to be trained in one framework and transferred to another for inference. (Caffe2, Microsoft Cognitive Toolkit, MXNet, and PyTorch)",
     "short name": "ONNX",
     "short description": "ONNX enables models to be trained in one framework and transferred to another for inference - serves Caffe2, MS Cognitive Toolkit, MXNet, PyTorch.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_YXkUEFOeWCqR7LH_download (1).png"
   },
   {
     "map id": 246,
@@ -4747,7 +4884,8 @@ let tools = [
     "Description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.",
     "short name": "OpenCV",
     "short description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 247,
@@ -4772,7 +4910,8 @@ let tools = [
     "Description": "Denoising Autoencoders for Phenotype Stratification (DAPS) constructs phenotypes through unsupervised learning",
     "short name": "DAPS",
     "short description": "Denoising Autoencoders for Phenotype Stratification (DAPS) constructs phenotypes through unsupervised learning.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_tWJHiQE6IyOCUo1_cluster.png"
   },
   {
     "map id": 248,
@@ -4797,7 +4936,8 @@ let tools = [
     "Description": "A checklist of information that needs to be provided in order to ensure that a published study can be reproduced.",
     "short name": "NLP Reproducibility Checklist",
     "short description": "A checklist of information that needs to be provided in order to ensure that a published study can be reproduced.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1JIWb78MYulnwnU_Screen Shot 2019-11-18 at 17.17.58.png"
   },
   {
     "map id": 249,
@@ -4822,7 +4962,8 @@ let tools = [
     "Description": "The ProvCaRe knowledge repository (https://provcare.case.edu/) is one of the largest provenance resources for biomedical research studies.",
     "short name": "ProvCaRe",
     "short description": "The ProvCaRe knowledge repository (https://provcare.case.edu/) is one of the largest provenance resources for biomedical research studies.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_TjbqYGyqmqkAX4t_prov-about.png"
   },
   {
     "map id": 250,
@@ -4847,7 +4988,8 @@ let tools = [
     "Description": "A novel deep learning architecture applied to a clinically heterogeneous set of three-dimensional optical coherence tomography scans from patients referred to a major eye hospital to recognise retinal diseases.",
     "short name": "Moorfield-Deepmind Algorithm",
     "short description": "A novel deep learning architecture applied to a clinically heterogeneous set of three-dimensional patient OCT scans to recognise retinal diseases.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 251,
@@ -4872,7 +5014,8 @@ let tools = [
     "Description": "ML-Schema's community helps develop and maintain standard schemas for data mining and machine learning algorithms, datasets, and experiments.",
     "short name": "ML Schema",
     "short description": "ML-Schema's community helps develop and maintain standard schemas for data mining and machine learning algorithms, datasets, and experiments.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1msaZicglAwLgf0_ML-Schema-Example1.png"
   },
   {
     "map id": 252,
@@ -4897,7 +5040,8 @@ let tools = [
     "Description": "ModelDB is a computational neuroscience community for investigators to share & run & iterate on published models.",
     "short name": "ModelDB",
     "short description": "ModelDB is a computational neuroscience community for investigators to share & run & iterate on published models.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 253,
@@ -4922,7 +5066,8 @@ let tools = [
     "Description": "Weka is a collection of machine learning algorithms for data mining tasks. It contains tools for data preparation, classification, regression, clustering, association rules mining, and visualization.",
     "short name": "Weka ML",
     "short description": "Weka is a collection of ML algorithms for data mining tasks - data preparation, classification, regression, clustering, and visualization.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 254,
@@ -4947,7 +5092,8 @@ let tools = [
     "Description": "An automated verification approach comparing information extracted from paper-based Case Report Forms using ML and OCR to Clinical Notes from EHR's.",
     "short name": "Auto-Data Verification",
     "short description": "An automated verification approach comparing information extracted from paper-based Case Report Forms using ML and OCR to Clinical Notes from EHRs.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2anISfIbsPl8BCq_Screen Shot 2019-11-18 at 19.00.14.png"
   },
   {
     "map id": 255,
@@ -4972,7 +5118,8 @@ let tools = [
     "Description": "Creation and validate of a scoring system for the selection of high-quality data in a Spanish population primary care database",
     "short name": "Scoring system of SIDIAP",
     "short description": "Creation and validate of a scoring system for the selection of high-quality data in a Spanish population primary care database.",
-    "wider network": "SIDIAP"
+    "wider network": "SIDIAP",
+    "extra_image": ""
   },
   {
     "map id": 256,
@@ -4997,7 +5144,8 @@ let tools = [
     "Description": "An eight-step method for assessing diagnostic data quality for chronic obstructive pulmonary disease in EHR's",
     "short name": "Data Quality Check (COPD)",
     "short description": "An eight-step method for assessing diagnostic data quality for chronic obstructive pulmonary disease in EHRs.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_2Xj24Vhq52eHNM5_Screen Shot 2019-11-18 at 20.16.09.png"
   },
   {
     "map id": 257,
@@ -5022,7 +5170,8 @@ let tools = [
     "Description": "Stanford CoreNLP provides a set of human language technology tools. It can give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, mark up the structure of sentences in terms of phrases and syntactic dependencies, indicate which noun phrases refer to the same entities, indicate sentiment, extract particular or open-class relations between entity mentions, get the quotes people said, etc.",
     "short name": "CoreNLP",
     "short description": "Stanford CoreNLP is a broad integrated NLP toolkit with a broad range of grammatical analysis tools.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 258,
@@ -5047,7 +5196,8 @@ let tools = [
     "Description": "A general purpose automated Healthcare Data Quality Framework to assess data quality via visualization.",
     "short name": "HDQF",
     "short description": "A general purpose automated Healthcare Data Quality Framework to assess data quality via visualization.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_1mLxlrAlwvN1nKz_3055965f1.jpg"
   },
   {
     "map id": 259,
@@ -5072,7 +5222,8 @@ let tools = [
     "Description": "Using natural language processing (NLP) with machine learning to identify Acute Respiratory Distress Syndrome (ARDS) in radiology notes",
     "short name": "Acute Respiratory Distress Syndrome P'typing",
     "short description": "Using natural language processing (NLP) with machine learning to identify Acute Respiratory Distress Syndrome (ARDS) in radiology notes.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 260,
@@ -5097,7 +5248,8 @@ let tools = [
     "Description": "Phenotyping through Semi-Supervised Tensor Factorization (PSST), a method that leverages disease status knowledge about subsets of patients to generate computational phenotypes from tensors constructed from the electronic health records of patients.",
     "short name": "PSST",
     "short description": "Phenotyping through Semi-Supervised Tensor Factorization (PSST), a method that generates computational phenotypes from EHRs of patients.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 261,
@@ -5122,7 +5274,8 @@ let tools = [
     "Description": "Improved phenotyping of a challenging Acute Kidney Injury etiology, HRS, over ICD-9 coding, via automated NLP dimension reduction",
     "short name": "Hepatorenal Syndrome P'typing",
     "short description": "Improved phenotyping of a challenging Acute Kidney Injury etiology, HRS, over ICD-9 coding, via automated NLP dimension reduction.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 262,
@@ -5147,7 +5300,8 @@ let tools = [
     "Description": "PhenoLines enables one to compare phenotype prevalence within and across disease subtype topics, thus supporting subtype characterization, a task that involves identifying a proposed subtype's dominant phenotypes, ages of effect, and clinical validity",
     "short name": "PhenoLines",
     "short description": "PhenoLines enables one to compare phenotype prevalence within and across disease subtype topics.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 263,
@@ -5172,7 +5326,8 @@ let tools = [
     "Description": "Two advances in the High Throughput Phenotyping NLP system which support the aim of truly high throughput processing of clinical data, inspired by a characterization of the linguistic properties of such data. Semantic indexing to store and generalize partially-processed results and the use of compositional expressions for ungrammatical text",
     "short name": "HTP-NLP",
     "short description": "Two advances in the High Throughput Phenotyping NLP system which support the aim of truly high throughput processing of clinical data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 264,
@@ -5197,7 +5352,8 @@ let tools = [
     "Description": "A consortium that aims to increase our understanding of the underlying mechanisms of impaired brain structure and function in schizophrenia, by combining brain imaging and cognitive measures with genotype data.",
     "short name": "GENUS - Schizophernia P'typing",
     "short description": "Consortium to discern mechanisms of impaired brain structure and function in schizophrenia, combining brain imaging, cognitive measures and genotypes.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 265,
@@ -5222,7 +5378,8 @@ let tools = [
     "Description": "pyConTextNLP is a partial implementation of the ConText algorithm using Python. The original description of pyConTextNLP was provided in Chapman BE, Lee S, Kang HP, Chapman WW, \"Document-level classification of CT pulmonary angiography reports based on an extension of the ConText algorithm.",
     "short name": "PyConText",
     "short description": "pyConTextNLP is a partial implementation of the ConText algorithm using Python.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 266,
@@ -5247,7 +5404,8 @@ let tools = [
     "Description": "Automated accurate clinical diffusion-weighted MRI lesion segmentation using deep learning algorithms trained with multi-center and diverse data is feasible. Both lesion volume and topography can provide insight into stroke subtypes with sufficient sample size from big heterogeneous multi-center clinical imaging phenotype data sets",
     "short name": "Acute Ischemic Stroke P'typing",
     "short description": "A study which demonstrates automated clinical diffusion-weighted MRI lesion segmentation using deep learning algorithms is feasible.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 267,
@@ -5272,7 +5430,8 @@ let tools = [
     "Description": "To use data-driven method to examine clinical codes (risk factors) of a medical condition in primary care electronic health records (EHRs) that can accurately predict a diagnosis of the condition in secondary care EHRs. 2) To develop and validate a disease phenotyping algorithm for rheumatoid arthritis using primary care EHRs.",
     "short name": "Rheumatoid Arthritis P'typing",
     "short description": "A data-driven method to examine clinical codes in primary care EHRs that can accurately predict a diagnosis of the condition in secondary care EHRs.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 268,
@@ -5297,7 +5456,8 @@ let tools = [
     "Description": "A study which demonstrates common neural NLP algorithm for information extraction can be generalisable if trained on diverse datasets",
     "short name": "NLP generalizability",
     "short description": "A study which demonstrates common neural NLP algorithm for information extraction can be generalisable if trained on diverse datasets.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 269,
@@ -5322,7 +5482,8 @@ let tools = [
     "Description": "ational electronic health records (EHR) are increasingly used for research but identifying disease cases is challenging due to differences in information captured between sources (e.g. primary and secondary care). Our objective was to provide a transparent, reproducible model for integrating these data using atrial fibrillation (AF), a chronic condition diagnosed and managed in multiple ways in different healthcare settings, as a case study.",
     "short name": "Atrial Fibrillation P'typing",
     "short description": "A reproducible model for integrating atrial fibrillation (AF) data, which is diagnosed and managed in multiple ways in different healthcare settings.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 270,
@@ -5347,7 +5508,8 @@ let tools = [
     "Description": "MetaPred ; meta-learning tool for clinical risk prediction from longitudinal patient EHRs",
     "short name": "MetaPred",
     "short description": "MetaPred ; meta-learning tool for clinical risk prediction from longitudinal patient EHRs.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_3R2ybDmWioCaABk_Screen Shot 2019-11-19 at 12.33.52.png"
   },
   {
     "map id": 271,
@@ -5372,7 +5534,8 @@ let tools = [
     "Description": "The traditional approach uses supervised learning, in which an expert designates which patterns to look for (by specifying the learning task and the class labels), and where to look for them (by specifying the input variables). While appropriate for individual tasks, this approach scales poorly and misses the patterns that we don't think to look for. Unsupervised feature learning overcomes these limitations by identifying patterns (or features) that collectively form a compact and expressive representation of the source data, with no need for expert input or labeled examples. Its rising popularity is driven by new deep learning methods, which have produced high-profile successes on difficult standardized problems of object recognition in images. Here we introduce its use for phenotype discovery in clinical data.",
     "short name": "Computational P'typing",
     "short description": "A study using unsupervised feature learning for phenotype discovery in clinical data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 272,
@@ -5397,7 +5560,8 @@ let tools = [
     "Description": "ARCH completeness tracking system (CTX) : A Network-wide dashboard and site-level feedback report tool",
     "short name": "ARCH Vue",
     "short description": "ARCH completeness tracking system (CTX) : A Network-wide dashboard and site-level feedback report tool.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": "R_XqaPforth90NY1r_m_ocz014f2.png"
   },
   {
     "map id": 273,
@@ -5422,7 +5586,8 @@ let tools = [
     "Description": "A portable natural language processing based phenotyping system",
     "short name": "Portable NLP",
     "short description": "A portable natural language processing based phenotyping system",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 274,
@@ -5447,7 +5612,8 @@ let tools = [
     "Description": "A study which compares the performance of an autoencoder approach with popular imputation techniques in ALS EHR datal",
     "short name": "Auto-Encoders for Imputation",
     "short description": "A study which compares the performance of an autoencoder approach with popular imputation techniques in ALS EHR data.",
-    "wider network": "PRO-ACT database"
+    "wider network": "PRO-ACT database",
+    "extra_image": "R_10pE8Crt03KzxCn_Screen Shot 2019-11-19 at 14.21.09.png"
   },
   {
     "map id": 275,
@@ -5472,7 +5638,8 @@ let tools = [
     "Description": "A variety of matrix completion and imputation algorithms implemented in Python 3.6.",
     "short name": "Fancy Impute",
     "short description": "A variety of matrix completion and imputation algorithms implemented in Python 3.6.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 276,
@@ -5497,7 +5664,8 @@ let tools = [
     "Description": "A study to assess the performance of Multivariate Imputation by Chained Equations (MICE) and softImpute for managing missing Structured Data in EHR's",
     "short name": "MICE for EHR's",
     "short description": "A study to assess the performance of Multivariate Imputation by Chained Equations (MICE) and softImpute for managing missing Structured Data in EHRs",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 277,
@@ -5522,7 +5690,8 @@ let tools = [
     "Description": "MICE: Multivariate Imputation by Chained Equations Software (R)",
     "short name": "MICE",
     "short description": "MICE: Multivariate Imputation by Chained Equations Software (R).",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 278,
@@ -5547,7 +5716,8 @@ let tools = [
     "Description": "NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.",
     "short name": "Natural Language Toolkit",
     "short description": "NLTK is a leading platform for building Python programs to work with human language data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 279,
@@ -5564,7 +5734,7 @@ let tools = [
     "Data types": "All EHR Data",
     "Medical Area": "All",
     "Tool purpose": "Tools for Converting EHR to Feature Sets",
-    "Partners": "CharitÃ©-Universitatsmedizin Berlin Berlin-Brandenburg Center for Regenerative Therapies (BCRT) Freie Universitaet Berlin Universitat Duisburg-Essen",
+    "Partners": "Charite-Universitatsmedizin Berlin Berlin-Brandenburg Center for Regenerative Therapies (BCRT) Freie Universitaet Berlin Universitat Duisburg-Essen",
     "Ecosystem": 8,
     "Tool link": "https://phenomics.github.io/software-phenoviz.html",
     "Paper link": "https://jmg.bmj.com/content/51/11/766",
@@ -5572,7 +5742,8 @@ let tools = [
     "Description": "PhenogramViz is a tool that automatically analyses and visualizes gene-to-phenotype relations for a set of genes affected by CNV of a patient and a set of HPO-terms representing the symptoms of said patient. The tool makes full use of the cross-species phenotype ontology â€œuberphenoâ€",
     "short name": "PhenogramViz",
     "short description": "A tool that automatically analyses and visualizes gene-to-phenotype relations for a set of genes affected by CNV of a patient and a set of HPO-terms.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 280,
@@ -5589,7 +5760,7 @@ let tools = [
     "Data types": "All EHR Data",
     "Medical Area": "All",
     "Tool purpose": "Tools for Converting EHR to Feature Sets",
-    "Partners": "CharitÃ© â€“ Universitatsmedizin Berlin Phenomics Team Berlin",
+    "Partners": "Charite Universitatsmedizin Berlin Phenomics Team Berlin",
     "Ecosystem": 8,
     "Tool link": "https://phenomics.github.io/software-phenomizer.html",
     "Paper link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2756558/",
@@ -5597,7 +5768,8 @@ let tools = [
     "Description": "The Phenomizer is a software that aims to help clinicians to identify the correct differential diagnosis in the field of human genetics. The user enters the signs/symptoms of the patient encoded as terms from the Human Phenotype Ontology. The software then ranks all diseases from OMIM, Orphanet, and DECIPHER by a score that reflects how well the phenotypic profiles of the patient and the disease match to each other.",
     "short name": "Phenomizer",
     "short description": "A software for clinicians to make correct differential diagnosis of patient systems using terms from Human Phenotype Ontology.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 281,
@@ -5622,7 +5794,8 @@ let tools = [
     "Description": "A PhenoPacket links detailed phenotype descriptions with disease, patient, and genetic information, enabling clinicians, biologists, and disease and drug researchers to build more complete models of disease.",
     "short name": "PhenoPacket",
     "short description": "A PhenoPacket links detailed phenotype descriptions with disease, patient, and genetic information.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 282,
@@ -5647,7 +5820,8 @@ let tools = [
     "Description": "Apache cTAKES is a natural language processing system for extraction of information from electronic medical record clinical free-text",
     "short name": "C-Takes",
     "short description": "Apache cTAKES is a natural language processing system for extraction of information from electronic medical record clinical free-text",
-    "wider network": "Apache Foundation"
+    "wider network": "Apache Foundation",
+    "extra_image": ""
   },
   {
     "map id": 283,
@@ -5672,7 +5846,8 @@ let tools = [
     "Description": "OpenNLP supports the most common NLP tasks, such as tokenization, sentence segmentation, part-of-speech tagging, named entity extraction, chunking, parsing, language detection and coreference resolution.",
     "short name": "OpenNLP",
     "short description": "OpenNLP aids in NLP tasks like tokenization, sentence segmentation, part-of-speech tagging, named entity extraction, chunking, parsing and more",
-    "wider network": "Apache Foundation"
+    "wider network": "Apache Foundation",
+    "extra_image": ""
   },
   {
     "map id": 284,
@@ -5697,7 +5872,8 @@ let tools = [
     "Description": "We used the general architecture for text engineering (GATE) framework to build an information extraction system, ExECT (extraction of epilepsy clinical text), combining rule-based and statistical techniques. We extracted nine categories of epilepsy information in addition to clinic date and date of birth across 200 clinic letters.",
     "short name": "ExECT",
     "short description": "ExECT (extraction of epilepsy clinical text) combines rule-based and statistical techniques for extracting epilepsy information, clinic dates and DOB.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 285,
@@ -5722,7 +5898,8 @@ let tools = [
     "Description": "Pulmonary function tests (PFTs) are objective estimates of lung function, but are not reliably stored within the Veteran Health Affairs data systems as structured data. The aim of this study was to validate the natural language processing (NLP) tool we developed-which extracts spirometric values and responses to bronchodilator administration-against expert review, and to estimate the number of additional spirometric tests identified beyond the structured data.",
     "short name": "NLP Pulmonary Function Test",
     "short description": "A study which compares an NLP tool to extract spirometric values and against expert review & structured data.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 286,
@@ -5747,7 +5924,8 @@ let tools = [
     "Description": "A method of extracting and standardizing patient complaints from electronic medication histories accumulated in a Japanese community pharmacy for the detection of possible adverse drug event (ADE) signals.",
     "short name": "Patient Complaints in Japanese",
     "short description": "A method of extracting and standardizing patient complaints from electronic medication histories accumulated in a Japanese community pharmacy.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 287,
@@ -5772,7 +5950,8 @@ let tools = [
     "Description": "A novel deep neural network, called attention-based CNN-LSTM-CRF, is proposed to recognize entities in Chinese clinical text.",
     "short name": "CNN-LSTM-CRF",
     "short description": "A novel deep neural network, called attention-based CNN-LSTM-CRF, is proposed to recognize entities in Chinese clinical text.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 288,
@@ -5797,7 +5976,8 @@ let tools = [
     "Description": "we propose a new approach which combines rule-based features and knowledge-guided deep learning models for effective disease classification. Critical Steps of our method include recognizing trigger phrases, predicting classes with very few examples using trigger phrases and training a convolutional neural network (CNN) with word embeddings and Unified Medical Language System (UMLS) entity embeddings.",
     "short name": "Clinical Text Classification",
     "short description": "We propose a new approach which combines rule-based features and knowledge-guided deep learning models for effective disease classification.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 289,
@@ -5822,7 +6002,8 @@ let tools = [
     "Description": "Standford Parse is a probabilistic natural language parser",
     "short name": "Stanford Parser",
     "short description": "Standford Parse is a probabilistic natural language parser.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 290,
@@ -5847,7 +6028,8 @@ let tools = [
     "Description": "A simple and effective scheme for dependency parsing which is based on bidirectional-LSTMs (BiLSTMs). Each sentence token is associated with a BiLSTM vector representing the token in its sentential context, and feature vectors are constructed by concatenating a few BiLSTM vectors.",
     "short name": "Bist-Parser",
     "short description": "A simple and effective scheme for dependency parsing which is based on bidirectional-LSTMs (BiLSTMs).",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 291,
@@ -5872,7 +6054,8 @@ let tools = [
     "Description": "compositional vector representation of parse trees that relies on a recursive combination of recurrent-neural network encoders. To demonstrate its effectiveness, we use the representation as the backbone of a greedy, bottom-up dependency parser, achieving very strong accuracies for English and Chinese, without relying on external word embeddings.",
     "short name": "Dependency-tf parser",
     "short description": "Compositional vector representation of parse trees that relies on a recursive combination of recurrent-neural network encoders.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 292,
@@ -5897,7 +6080,8 @@ let tools = [
     "Description": "A novel neural network model that learns POS tagging and graph-based dependency parsing jointly. Our model uses bidirectional LSTMs to learn feature representations shared for both POS tagging and dependency parsing tasks, thus handling the feature-engineering problem.",
     "short name": "jptdp-Parser",
     "short description": "A novel neural network model uses bidirectional LSTMs that learns POS tagging and graph-based dependency parsing jointly.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 293,
@@ -5922,7 +6106,8 @@ let tools = [
     "Description": "Using sampled clinical documents associated with a cohort of patients who received their primary care at Mayo Clinic, we investigated the associations between problem list and practice setting through natural language processing (NLP) and topic modeling techniques.",
     "short name": "Linking Problem Lists & Practice Settings",
     "short description": "A study investigating associations between problem list and practice setting using sampled clinical documents from Mayo Clinic primary care patients.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 294,
@@ -5947,7 +6132,8 @@ let tools = [
     "Description": "Deriving problem list items can be semantically grouped, in order to allow for fast navigation through patient-related topic spaces via natural language processing",
     "short name": "EHR Problem List Clustering",
     "short description": "Deriving problem list items to be be semantically grouped, in order to allow for fast navigation through patient-related topic spaces.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 295,
@@ -5972,7 +6158,8 @@ let tools = [
     "Description": "Deep learning algorithms build syndrome-specific computational-based classifiers (syndrome gestalts) Proprietary technology converts a patient photo into de-identified mathematical facial descriptors (facial descriptors) The patient's facial descriptor is compared to syndrome gestalts to quantify similarity (gestalt scores) resulting in a prioritized list of syndromes with similar morphology Artificial intelligence suggests likely phenotypic traits and genes to assist in feature annotation and syndrome prioritization.",
     "short name": "Face2Gene",
     "short description": "AI which converts a patient photo into de-identified mathematical facial descriptors and compares this to syndrome gestalts to list likely conditions.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 296,
@@ -5997,7 +6184,8 @@ let tools = [
     "Description": "DQe-c is a data quality assessment tool for clinical data repositories. The main focus of DQe-c is evaluation of data completeness and visualization of the test results.",
     "short name": "DQe-c",
     "short description": "A data quality assessment tool for clinical data repositories. Its main focus is evaluation of data completeness.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   },
   {
     "map id": 297,
@@ -6022,6 +6210,7 @@ let tools = [
     "Description": "OncoText is an information extraction service designed to parse structured data out of pathology reports. Currently, the system has pretrained models for categories like \"DCIS\", \"LCIS\", \"ER Status\", and around 20 more categories.",
     "short name": "OncoText",
     "short description": "An information extraction service designed to parse structured data out of pathology reports with pretrained models for multiple categories.",
-    "wider network": ""
+    "wider network": "",
+    "extra_image": ""
   }
 ];
