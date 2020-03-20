@@ -1,6 +1,6 @@
 .toolviz {
 	margin-bottom:60px;
-	text-align:center;
+	
 }
 
 #text8 {
@@ -14,12 +14,26 @@
 }
 
 #viz {
-	margin-top:40px;
+	width: 100px;
+	height: 100px;
+	
+	position: absolute;
+	top:-300;
+	bottom: 0;
+	left: -200;
+	right: 0;
+  	text-align:center;
+	margin: auto;
 }
 
 .toolname {
 	font-weight:700;
 	width:250px;
 	margin: auto;
-	height:60px;
+	height:100px;
+	font-size:16px;
+}
+
+#viz svg {
+	width:250px;
 }
